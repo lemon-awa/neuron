@@ -1,0 +1,31 @@
+(
+    "Nature"[Journal] OR 
+    "Science"[Journal] OR 
+    "Cell"[Journal] OR 
+    "Nature Neuroscience"[Journal] OR 
+    "Neuron"[Journal] OR 
+    "Current Biology CB"[Journal] OR 
+    "PLoS Biology"[Journal] OR 
+    "Science Advances"[Journal] OR 
+    "Proceedings of the National Academy of Sciences of the United States of America"[Journal] OR 
+    "Cell Reports"[Journal] OR 
+    "eLife"[Journal] OR 
+    "The Journal of Experimental Biology"[Journal] OR 
+    "Nature Communications"[Journal] OR 
+    "bioRxiv"[Journal]
+)
+AND 
+(
+    "Drosophila"[All Fields] AND 
+    (
+        "Connectomics"[All Fields] OR 
+        "Connectome"[All Fields] OR 
+        "Neuron"[All Fields] OR 
+        "Neuroscience"[All Fields] OR 
+        "Sensory"[All Fields] OR 
+        "Motor"[All Fields] OR 
+        "Brain"[All Fields] OR 
+        "Ventral Nerve Cord"[All Fields]
+    )
+)
+
