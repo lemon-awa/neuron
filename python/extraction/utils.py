@@ -1,6 +1,6 @@
 import dataclasses
 import json
-import os
+import pathlib
 from typing import Dict, List
 
 import requests
@@ -10,10 +10,10 @@ BASE_URL = "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_
 
 def request_fulltext_raw(pmid: str) -> dict:
     """Request full text from PMC OA API or load from local file if available"""
-    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    file_path = os.path.join(project_root, "full_texts", f"{pmid}.json")
+    project_root = pathlib.Path(__file__).parent.parent.parent
+    file_path = project_root / "assets" / "full_texts" / f"{pmid}.json"
 
-    if os.path.exists(file_path):
+    if file_path.exists():
         with open(file_path, "r") as f:
             return json.load(f)
 
@@ -22,7 +22,7 @@ def request_fulltext_raw(pmid: str) -> dict:
     response.raise_for_status()
     content = response.json()[0]
 
-    os.makedirs(os.path.dirname(file_path), exist_ok=True)
+    file_path.parent.mkdir(parents=True, exist_ok=True)
     with open(file_path, "w") as f:
         json.dump(content, f)
 
@@ -115,7 +115,7 @@ class Paper:
         paper_str += f"Abstract: {self.abstract}\n"
         for section_name, paragraphs in self.sections.items():
             for idx, paragraph in enumerate(paragraphs):
-                paper_str += f"{section_name} {idx+1}: {paragraph}\n"
+                paper_str += f"{section_name} {idx + 1}: {paragraph}\n"
         return paper_str
 
     @classmethod
