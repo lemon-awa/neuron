@@ -122,8 +122,8 @@ class Paper:
     def from_pmid(cls, pmid: str) -> "Paper":
         """Get the paper from PubMed."""
         paper_dict = request_fulltext(pmid)
-        title = paper_dict.get("TITLE", ["None"])[0]
-        abstract = paper_dict.get("ABSTRACT", ["None"])[0]
+        title = paper_dict.get("TITLE", [None])[0]
+        abstract = paper_dict.get("ABSTRACT", [None])[0]
         sections = {
             "INTRO": paper_dict.get("INTRO", []),
             "RESULTS": paper_dict.get("RESULTS", []),
