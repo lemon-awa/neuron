@@ -436,7 +436,13 @@ if __name__ == "__main__":
     with get_openai_callback() as cb:
         cell_types = model.extract_cell_types(paper)
     # Save the cell types to a JSON file.
-    output_file = os.path.join(project_root, "cell_types", f"{args.pmid}.json")
+    output_file = os.path.join(
+        project_root,
+        "assets",
+        "cell_types",
+        args.model.replace("-", "_"),
+        f"{args.pmid}.json",
+    )
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, "w") as f:
         json.dump(cell_types, f, indent=4, ensure_ascii=False)

@@ -4,6 +4,8 @@
 **/examples/
 **/sample_results/
 **/*_results/
+**/cell_types/
+**/annotation/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
