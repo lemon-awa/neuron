@@ -118,6 +118,17 @@ class Paper:
                 paper_str += f"{section_name} {idx + 1}: {paragraph}\n"
         return paper_str
 
+    def to_markdown(self) -> str:
+        """Convert the paper to a markdown string."""
+        markdown = f"## {self.title}\n\n"
+        markdown += f"{self.abstract}\n\n"
+        for section_name, paragraphs in self.sections.items():
+            for idx, paragraph in enumerate(paragraphs):
+                subtitle = f"{section_name} {idx + 1}"
+                markdown += f"### {subtitle}\n\n"
+                markdown += f"{paragraph}\n\n"
+        return markdown
+
     @classmethod
     def from_pmid(cls, pmid: str) -> "Paper":
         """Get the paper from PubMed."""

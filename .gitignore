@@ -6,6 +6,8 @@
 **/*_results/
 **/cell_types/
 **/annotation/
+**/reports*
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
