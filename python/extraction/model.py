@@ -11,6 +11,17 @@ import dotenv
 from langchain import hub
 from langchain_community.callbacks.manager import get_openai_callback
 from utils import Paper
+from langchain.prompts import ChatPromptTemplate
+from prompt import (
+   SYSTEM_PROMPT_LIST_CELL_TYPES,
+   FEW_SHOT_LIST_CELL_TYPES,
+   SYSTEM_PROMPT_IS_CELL_TYPE,
+   FEW_SHOT_IS_CELL_TYPE,
+   SYSTEM_PROMPT_EXTRACT_CELL_TYPE_DETAILS,
+   FEW_SHOT_EXTRACT_CELL_TYPE_DETAILS,
+   SYSTEM_PROMPT_REMOVE_DUPLICATES,
+   FEW_SHOT_REMOVE_DUPLICATES,
+)
 
 dotenv.load_dotenv()
 
@@ -99,12 +110,40 @@ class ExtractionModel:
 
         self.load_prompts()
 
+    # def load_prompts(self):
+    #     prompt_names = ["list_all", "check", "extract", "deduplicate"]
+    #     prompts = {}
+    #     for prompt_name in prompt_names:
+    #         prompts[prompt_name] = hub.pull(f"nfi_{prompt_name}")
+    #     self.prompts = prompts
+
     def load_prompts(self):
-        prompt_names = ["list_all", "check", "extract", "deduplicate"]
-        prompts = {}
-        for prompt_name in prompt_names:
-            prompts[prompt_name] = hub.pull(f"nfi_{prompt_name}")
-        self.prompts = prompts
+        list_all_template = ChatPromptTemplate.from_messages([
+            ("system", SYSTEM_PROMPT_LIST_CELL_TYPES + "\n\n" + FEW_SHOT_LIST_CELL_TYPES),
+            ("user", "{input}")
+        ])
+        
+        check_template = ChatPromptTemplate.from_messages([
+            ("system", SYSTEM_PROMPT_IS_CELL_TYPE + "\n\n" + FEW_SHOT_IS_CELL_TYPE),
+            ("user", "Related paragraphs: {related_paragraphs}\nCandidate cell type: {cell_type}")
+        ])
+        
+        extract_template = ChatPromptTemplate.from_messages([
+            ("system", SYSTEM_PROMPT_EXTRACT_CELL_TYPE_DETAILS + "\n\n" + FEW_SHOT_EXTRACT_CELL_TYPE_DETAILS),
+            ("user", "List all factoids about {cell_type} given the \"Related paragraphs\". For each factoid, start with \"{cell_type}\" as the subject.\nContext:\n{related_paragraphs}\nClosest cell types: {closest_cell_types}")
+        ])
+        
+        deduplicate_template = ChatPromptTemplate.from_messages([
+            ("system", SYSTEM_PROMPT_REMOVE_DUPLICATES + "\n\n" + FEW_SHOT_REMOVE_DUPLICATES),
+            ("user", "{cell_types}")
+        ])
+        
+        self.prompts = {
+            "list_all": list_all_template,
+            "check": check_template,
+            "extract": extract_template,
+            "deduplicate": deduplicate_template
+        }
 
     def get_model(self, json_mode: bool = False):
         """Get the LLM model based on the model type and response format.
@@ -433,6 +472,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     model = ExtractionModel(model_type=args.model)
     paper = Paper.from_pmid(args.pmid)
+
     with get_openai_callback() as cb:
         cell_types = model.extract_cell_types(paper)
     # Save the cell types to a JSON file.

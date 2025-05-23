@@ -1,0 +1,579 @@
+{"alias_pairs": [{"main_name": "21G11", "alias": "posterior ventral (PV) 5a tract", "evidence": "21G11 neurons correspond to the posterior ventral (PV) 5a tract described by Frechter and colleagues."}]}
+{"alias_pairs": [{"main_name": "5th s-LNv", "alias": "E-oscillators", "evidence": "5th s-LNv are referred to as E-oscillators."}]}
+{"alias_pairs": [{"main_name": "5th s-LNv", "alias": "PDF-negative s-LNv", "evidence": "5th s-LNv is also known as PDF-negative s-LNv."}]}
+{"alias_pairs": [{"main_name": "5th sLNv", "alias": "remaining sLNv among the evening cells", "evidence": "5th sLNv is also known as the remaining sLNv among the evening cells."}]}
+{"alias_pairs": [{"main_name": "A GRN", "alias": "sugar GRNs", "evidence": "A GRN are formerly known as sugar GRNs."}]}
+{"alias_pairs": [{"main_name": "A-CC", "alias": "posterior CCs", "evidence": "A-CC are referred to as the posterior CCs."}]}
+{"alias_pairs": [{"main_name": "A01c", "alias": "eIN1,2", "evidence": "A01c were referred to as eIN1,2 in experimental data."}]}
+{"alias_pairs": [{"main_name": "A01d3 PMN", "alias": "ifb-FWD", "evidence": "A01d3 PMN is also known as ifb-FWD."}]}
+{"alias_pairs": [{"main_name": "A02e", "alias": "PMSIs", "evidence": "A02e are identified as PMSIs (period-positive median segmental interneurons)."}]}
+{"alias_pairs": [{"main_name": "A02g", "alias": "PMSI", "evidence": "A02g is a PMSI (period-positive median segmental interneuron)."}]}
+{"alias_pairs": [{"main_name": "A02o", "alias": "Wave", "evidence": "A02o is referred to as 'Wave'."}]}
+{"alias_pairs": [{"main_name": "A09a", "alias": "Basin-2", "evidence": "A09a has been the focus of previous work under the name 'Basin-2'."}]}
+{"alias_pairs": [{"main_name": "A09c", "alias": "Basin-4", "evidence": "A09c has been the focus of previous work under the name 'Basin-4'."}]}
+{"alias_pairs": [{"main_name": "A1", "alias": "DNa01", "evidence": "A1 are referred to as DNa01 neurons."}]}
+{"alias_pairs": [{"main_name": "A10a", "alias": "Chair-1", "evidence": "A10a are Chair-1 premotor neurons."}]}
+{"alias_pairs": [{"main_name": "A18a", "alias": "CLI2", "evidence": "A18a is also known as CLI2."}]}
+{"alias_pairs": [{"main_name": "A18g", "alias": "Canon neurons", "evidence": "A18g are uniquely identified Canon neurons in the existing ssTEM reconstruction based on morphological features obtained from single-cell MCFO clones."}]}
+{"alias_pairs": [{"main_name": "A18j", "alias": "eIN1,2", "evidence": "A18j is supported by experimental data where it was called eIN1,2."}]}
+{"alias_pairs": [{"main_name": "A19f", "alias": "M neuron", "evidence": "A19f is identified as the M neuron."}]}
+{"alias_pairs": [{"main_name": "A27j2", "alias": "GABAergic dorsolateral neurons (GDLs)", "evidence": "A27j2 are also annotated as GABAergic dorsolateral neurons (GDLs)."}]}
+{"alias_pairs": [{"main_name": "A27k", "alias": "ifb-BWD", "evidence": "A27k is also known as ifb-BWD."}]}
+{"alias_pairs": [{"main_name": "AC", "alias": "anterior cells", "evidence": "AC are anterior cells that respond to thermal changes and relay signals to higher brain regions."}]}
+{"alias_pairs": [{"main_name": "ACc", "alias": "Anterior Cold Cell", "evidence": "ACc is referred to as the Anterior Cold Cell due to its location being similar to the previously described “Anterior Cell” neurons."}]}
+{"alias_pairs": [{"main_name": "AL5a", "alias": "aSP-I", "evidence": "AL5a is also known as aSP-I and aSP11."}, {"main_name": "AL5a", "alias": "aSP11", "evidence": "AL5a is also known as aSP-I and aSP11."}]}
+{"alias_pairs": [{"main_name": "ALG", "alias": "astrocyte-like glia", "evidence": "ALG, or astrocyte-like glia, is a specific type of glial cell in Drosophila that plays a role in the proliferative response to injury, as described in the text."}]}
+{"alias_pairs": [{"main_name": "ALl1", "alias": "lAL", "evidence": "ALl1 is a known lineage that has been renamed from lAL."}]}
+{"alias_pairs": [{"main_name": "AMA", "alias": "type 12 accessory medulla neurons (aMe 12)", "evidence": "AMA neurons include a subgroup known as type 12 accessory medulla neurons (aMe 12), which are postsynaptic to R8 photoreceptors."}]}
+{"alias_pairs": [{"main_name": "AMMC-B1", "alias": "aPN1", "evidence": "AMMC-B1 are also known as aPN1 neurons."}]}
+{"alias_pairs": [{"main_name": "AN09B017", "alias": "Fru positive vAB3 neurons", "evidence": "AN09B017 are likely equivalent to the Fru positive vAB3 neurons."}]}
+{"alias_pairs": [{"main_name": "APL", "alias": "anterior paired lateral neuron", "evidence": "APL, or the anterior paired lateral neuron, is described as a GABAergic neuron present in a single copy per hemisphere, indicating it is a specific neuronal cell type involved in feedback inhibition within the mushroom body."}]}
+{"alias_pairs": [{"main_name": "APL", "alias": "anterior paired lateral neurons", "evidence": "APL are anterior paired lateral neurons."}]}
+{"alias_pairs": [{"main_name": "APL neuron", "alias": "anterior paired lateral neuron", "evidence": "APL neuron is a GABAergic anterior paired lateral neuron."}]}
+{"alias_pairs": [{"main_name": "APN1", "alias": "B1 neurons", "evidence": "APN1 are also called B1 neurons."}]}
+{"alias_pairs": [{"main_name": "B GRN", "alias": "bitter GRNs", "evidence": "B GRN were formerly known as bitter GRNs."}]}
+{"alias_pairs": [{"main_name": "B1", "alias": "APN1", "evidence": "B1 are contralaterally projecting neurons also called APN1."}]}
+{"alias_pairs": [{"main_name": "BB", "alias": "bluebird", "evidence": "BB line also labels an additional neuron previously described as ‘bluebird’."}]}
+{"alias_pairs": [{"main_name": "BLP", "alias": "brain lateral posterior neurons", "evidence": "BLP are brain lateral posterior neurons."}]}
+{"alias_pairs": [{"main_name": "BPN", "alias": "bolt protocerebral neuron", "evidence": "BPN is a bolt protocerebral neuron that drives straight forward walking."}]}
+{"alias_pairs": [{"main_name": "BPN", "alias": "Bolt Protocerebral Neurons", "evidence": "BPN, or Bolt Protocerebral Neurons, is identified as a specific neuronal cell type involved in initiating straight forward walking in Drosophila, distinct from other neuronal types like P9."}]}
+{"alias_pairs": [{"main_name": "BT", "alias": "Broad Trio neurons", "evidence": "BT are part of the Broad Trio neurons."}]}
+{"alias_pairs": [{"main_name": "C3da", "alias": "Class III dendritic arborization sensory neurons", "evidence": "C3da are Class III dendritic arborization sensory neurons in Drosophila melanogaster."}]}
+{"alias_pairs": [{"main_name": "C4da", "alias": "class IV larval dendritic arborization neurons", "evidence": "C4da are class IV larval dendritic arborization neurons."}]}
+{"alias_pairs": [{"main_name": "C4da", "alias": "class IV dendritic arborization neurons", "evidence": "C4da are nociceptive neurons in Drosophila larva, termed the class IV dendritic arborization neurons."}]}
+{"alias_pairs": [{"main_name": "CAP", "alias": "Common Aggression-Promoting neurons", "evidence": "CAP are referred to as Common Aggression-Promoting neurons."}]}
+{"alias_pairs": [{"main_name": "CEM", "alias": "Crop-innervating Enteric Motor neurons", "evidence": "CEM refers to Crop-innervating Enteric Motor neurons, which are specifically described as a type of motor neuron involved in the regulation of sugar transport in Drosophila."}]}
+{"alias_pairs": [{"main_name": "CIII md", "alias": "Class III multidendritic neurons", "evidence": "CIII md refers to Class III multidendritic neurons, which are a specific type of somatosensory neuron involved in cold nociception in Drosophila larvae."}]}
+{"alias_pairs": [{"main_name": "CLI2", "alias": "A18a", "evidence": "CLI2 is also known as cholinergic excitor A18a."}]}
+{"alias_pairs": [{"main_name": "CM1", "alias": "central-medial 1", "evidence": "CM1 is named central-medial 1 due to its anatomical position."}]}
+{"alias_pairs": [{"main_name": "CNs", "alias": "convergence neurons", "evidence": "CNs are convergence neurons receiving input from both the MB and LH, which encode learned and innate values, respectively."}]}
+{"alias_pairs": [{"main_name": "CRN", "alias": "Copulation Reporting Neurons", "evidence": "CRNs are referred to as Copulation Reporting Neurons, suggesting they report copulation status to mating drive circuitry."}]}
+{"alias_pairs": [{"main_name": "CRZ", "alias": "corazonin neurons", "evidence": "CRZ are corazonin neurons."}]}
+{"alias_pairs": [{"main_name": "CSDn", "alias": "Contralaterally projecting Serotonin immunoreactive Deuterocerebral neurons", "evidence": "CSDn are a single pair of serotonergic neurons called the Contralaterally projecting Serotonin immunoreactive Deuterocerebral neurons."}]}
+{"alias_pairs": [{"main_name": "Cell 27 neuron", "alias": "α neurons", "evidence": "Cell 27 neuron corresponds to the projection neurons referred to as α neurons in the study."}]}
+{"alias_pairs": [{"main_name": "ChC", "alias": "chandelier cells", "evidence": "ChC are chandelier cells."}]}
+{"alias_pairs": [{"main_name": "Compass neurons", "alias": "EPG neurons", "evidence": "Compass neurons, also known as EPG neurons, are a specific type of neuronal cell involved in navigation by integrating visual and other sensory information to compute head direction in Drosophila."}]}
+{"alias_pairs": [{"main_name": "DA1/DL3 lPN", "alias": "middle larval-born lPNs", "evidence": "DA1/DL3 lPN are referred to as 'middle larval-born lPNs'."}]}
+{"alias_pairs": [{"main_name": "DALcl1d TuBu neuron", "alias": "tubercle-lateral accessory lobe type 1 neurons (TuLAL1 neurons)", "evidence": "DALcl1d TuBu neuron resembles likely homologs called tubercle-lateral accessory lobe type 1 neurons (TuLAL1 neurons) from the sky-compass pathway."}]}
+{"alias_pairs": [{"main_name": "DC1", "alias": "aSP-f", "evidence": "DC1 has been given various names, including aSP-f and aSP5."}, {"main_name": "DC1", "alias": "aSP5", "evidence": "DC1 has been given various names, including aSP-f and aSP5."}]}
+{"alias_pairs": [{"main_name": "DC1 neuron", "alias": "asp-j or aSP5", "evidence": "DC1 neuron are also termed asp-j or aSP5."}]}
+{"alias_pairs": [{"main_name": "DCN", "alias": "dorsal cluster neurons", "evidence": "DCN refers to dorsal cluster neurons, which are a specific type of neuronal cell in Drosophila involved in axonal branch refinement in the central nervous system."}]}
+{"alias_pairs": [{"main_name": "DCN", "alias": "dorsal cluster neurons", "evidence": "DCN are dorsal cluster neurons, a group of bilateral commissural higher order neurons in the visual system of Drosophila."}]}
+{"alias_pairs": [{"main_name": "DH44+ PI", "alias": "DH44VT-GAL4", "evidence": "DH44+ PI cells have their DH44 expression faithfully recapitulated by the GAL4 line VT039046 (DH44VT-GAL4)."}]}
+{"alias_pairs": [{"main_name": "DIPγ-negative Dm8", "alias": "Dm-DRA1", "evidence": "DIPγ-negative Dm8 correspond to the newly identified Dm-DRA1 neurons."}]}
+{"alias_pairs": [{"main_name": "DL3 lPN", "alias": "middle larval-born lPNs", "evidence": "DL3 lPN are referred to as 'middle larval-born lPNs'."}]}
+{"alias_pairs": [{"main_name": "DN1", "alias": "Dorsal Neurons 1", "evidence": "DN1 are circadian Dorsal Neurons 1."}]}
+{"alias_pairs": [{"main_name": "DN1p", "alias": "ventral-contralateral DN1ps", "evidence": "DN1p are named ventral-contralateral DN1ps."}]}
+{"alias_pairs": [{"main_name": "DNHS", "alias": "Descending Neuron of the Horizontal System", "evidence": "DNHS, or Descending Neuron of the Horizontal System, is identified as a specific descending neuron that innervates the haltere motor neuropil, indicating it is a neuronal cell type."}]}
+{"alias_pairs": [{"main_name": "DNp13", "alias": "pMN1", "evidence": "DNp13 is also known as pMN1."}]}
+{"alias_pairs": [{"main_name": "DNp13", "alias": "pMN1", "evidence": "DNp13 is also known as pMN1."}]}
+{"alias_pairs": [{"main_name": "DNp20", "alias": "DNOVS1", "evidence": "DNp20 is also known as DNOVS1."}]}
+{"alias_pairs": [{"main_name": "DNp20", "alias": "DNOVS1", "evidence": "DNp20, also known as DNOVS1, receives input from optic lobe output neurons that encode pitch-associated or roll-associated optic flow."}]}
+{"alias_pairs": [{"main_name": "DOCC", "alias": "Dorsal Organ Cool Cells", "evidence": "DOCC are Dorsal Organ Cool Cells, a trio of cool-responsive neurons found in each of the two dorsal organs at the anterior of the Drosophila melanogaster larva."}]}
+{"alias_pairs": [{"main_name": "DPM", "alias": "dorsal paired medial neuron", "evidence": "DPM refers to a specific type of neuron in Drosophila, known as the dorsal paired medial neuron, which is involved in memory formation."}]}
+{"alias_pairs": [{"main_name": "DPM", "alias": "dorsal paired medial neurons", "evidence": "DPM refers to a specific type of neuron in Drosophila, known as the dorsal paired medial neurons, which are involved in memory processing and are mentioned in the context of their role in memory circuits."}]}
+{"alias_pairs": [{"main_name": "DPM", "alias": "dorsal paired medial neurons", "evidence": "DPM refers to a specific type of neuron in Drosophila, known as the dorsal paired medial neurons, which are involved in forming memory traces after conditioning."}]}
+{"alias_pairs": [{"main_name": "DPM neuron", "alias": "dorsal paired medial neuron", "evidence": "DPM neuron refers to a specific type of neuron known as the dorsal paired medial neuron, which is involved in forming microcircuit bridges in the mushroom body of Drosophila."}]}
+{"alias_pairs": [{"main_name": "Dm6 neuron", "alias": "Distal-medulla6 neurons", "evidence": "Dm6 neuron resembles previously described Distal-medulla6 neurons."}]}
+{"alias_pairs": [{"main_name": "Dm8a", "alias": "pale Dm8 (pDm8)", "evidence": "Dm8a is identified as pale Dm8 (pDm8)."}]}
+{"alias_pairs": [{"main_name": "DnB", "alias": "Down-and-Back neurons", "evidence": "DnB are a population of somatosensory interneurons known as Down-and-Back neurons."}, {"main_name": "DnB", "alias": "A09l neurons", "evidence": "DnB neurons are identified as the A09l neurons based on lineage-based nomenclature."}]}
+{"alias_pairs": [{"main_name": "Dp7", "alias": "dorsal pair Ilp7 neurons", "evidence": "Dp7 are dorsal pair Ilp7 neurons."}]}
+{"alias_pairs": [{"main_name": "E-PG", "alias": "ellipsoid body-protocerebral bridge-gall neurons", "evidence": "E-PGs are ellipsoid body-protocerebral bridge-gall neurons."}]}
+{"alias_pairs": [{"main_name": "E-PG", "alias": "ellipsoid body-protocerebral bridge-gall neurons", "evidence": "E-PG are ellipsoid body-protocerebral bridge-gall neurons."}]}
+{"alias_pairs": [{"main_name": "E-PG neuron", "alias": "pb-eb-gall", "evidence": "E-PG neuron is also known as 'pb-eb-gall'."}]}
+{"alias_pairs": [{"main_name": "E1 LNd", "alias": "LNd4 and LNd5", "evidence": "E1 LNd correspond to LNd4 and LNd5 in the hemibrain LNd volumes."}]}
+{"alias_pairs": [{"main_name": "E2 LNd", "alias": "LNd6", "evidence": "E2 LNd corresponds to LNd6 in hemibrain LNd volumes."}]}
+{"alias_pairs": [{"main_name": "EB-RN", "alias": "Ring Neurons of the Ellipsoid Body", "evidence": "EB-RN are the Ring Neurons of the Ellipsoid Body."}]}
+{"alias_pairs": [{"main_name": "EL", "alias": "Eve+ lateral interneurons", "evidence": "EL are evolutionarily-conserved Eve+ lateral interneurons."}]}
+{"alias_pairs": [{"main_name": "EPG", "alias": "compass neurons", "evidence": "EPG are known as the compass neurons."}]}
+{"alias_pairs": [{"main_name": "EPG neuron", "alias": "compass neurons", "evidence": "EPG neuron are also called compass neurons."}]}
+{"alias_pairs": [{"main_name": "ER neuron", "alias": "ring neuron", "evidence": "ER neurons, also known as 'ring' neurons, are described as a distinct class with specific synaptic connections and morphology, indicating they are a neuronal cell type."}]}
+{"alias_pairs": [{"main_name": "FB-LAL", "alias": "IMPL-F", "evidence": "FB-LAL is an IMPL-F neuron."}]}
+{"alias_pairs": [{"main_name": "FD", "alias": "figure detecting cells", "evidence": "FD, or figure detecting cells, are a specific type of neuron in the lobula plate of flies that are involved in detecting small-field gratings."}]}
+{"alias_pairs": [{"main_name": "FFN", "alias": "feedforward neurons", "evidence": "FFN are classified as \"feedforward neurons\"."}]}
+{"alias_pairs": [{"main_name": "FLAa3", "alias": "Lgr3 neurons", "evidence": "FLAa3 are also known as Lgr3 neurons."}]}
+{"alias_pairs": [{"main_name": "FMFRaG6P neuron", "alias": "Tv neurons", "evidence": "FMFRaG6P neuron corresponds to the Tv neurons."}]}
+{"alias_pairs": [{"main_name": "GCL", "alias": "pars intercerebralis Lgr3-positive neurons", "evidence": "GCL are a bilateral pair of neurons known as the pars intercerebralis Lgr3-positive neurons."}]}
+{"alias_pairs": [{"main_name": "GF", "alias": "DNp01", "evidence": "GF is also known as DNp01."}]}
+{"alias_pairs": [{"main_name": "Giant Fiber neuron", "alias": "DNp01", "evidence": "Giant Fiber neuron is also known as DNp01."}]}
+{"alias_pairs": [{"main_name": "H1", "alias": "huginPC neuron", "evidence": "H1 is a huginPC neuron."}]}
+{"alias_pairs": [{"main_name": "H1", "alias": "LPT37-H1", "evidence": "H1 is identified as LPT37-H1 in the naming convention used."}]}
+{"alias_pairs": [{"main_name": "HC", "alias": "Hot Cells", "evidence": "HC refers to a specific type of thermosensory neuron in the Drosophila arista, known as Hot Cells, which are involved in temperature sensing."}]}
+{"alias_pairs": [{"main_name": "HS", "alias": "horizontal system", "evidence": "HS refers to \"horizontal system\" neurons, which are a specific type of lobula plate tangential cell (LPTC) in Drosophila involved in processing visual motion."}]}
+{"alias_pairs": [{"main_name": "HS", "alias": "Horizontal System cells", "evidence": "HS cells, or Horizontal System cells, are a specific type of giant lobula plate tangential cell (LPTC) involved in signaling wide-field motion in the horizontal direction."}]}
+{"alias_pairs": [{"main_name": "HS", "alias": "lobula plate tangential horizontal system cells", "evidence": "HS are lobula plate tangential horizontal system cells."}]}
+{"alias_pairs": [{"main_name": "HSN", "alias": "dorsal HS neuron", "evidence": "HSN is the dorsal HS neuron."}]}
+{"alias_pairs": [{"main_name": "HSN", "alias": "Horizontal System North cells", "evidence": "HSN are Horizontal System North cells of the lobula plate."}]}
+{"alias_pairs": [{"main_name": "ICLI", "alias": "inferior contralateral interneurons", "evidence": "ICLI are inferior contralateral interneurons."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-producing cells", "evidence": "IPCs, or Insulin-producing cells, are a specific type of neuronal cell in Drosophila that secrete insulin-like peptides and play a role in regulating various physiological processes, including reproduction."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-Producing Cells", "evidence": "IPCs, or Insulin-Producing Cells, are a specific type of neuronal cell in Drosophila that play a crucial role in metabolic regulation and insulin signaling."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-producing cells", "evidence": "IPCs, or Insulin-producing cells, are a specific type of endocrine neuron in Drosophila that produce DILP2 and interact with other neurons like T1-DANs."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-producing cells", "evidence": "IPCs, or Insulin-producing cells, are a specific type of neuronal cell in Drosophila known for their role in regulating insulin-like peptides."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-Producing Cells", "evidence": "IPC refers to Insulin-Producing Cells, which are a specific type of neuronal cell in Drosophila involved in the regulation of insulin-like peptide secretion."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-producing cells", "evidence": "IPCs, or Insulin-producing cells, are a specific type of neuronal cell in Drosophila involved in various physiological processes, including courtship behavior modulation."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-producing cells", "evidence": "IPCs, or Insulin-producing cells, are a specific type of neuronal cell involved in the regulation of insulin-like peptides in Drosophila."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-producing cells", "evidence": "IPCs, or Insulin-producing cells, are a specific type of neuronal cell involved in the neuroendocrine system of Drosophila, as indicated by their role in receiving inputs from sensory neurons and interneurons."}]}
+{"alias_pairs": [{"main_name": "IPC", "alias": "Insulin-producing cells", "evidence": "IPCs, or Insulin-producing cells, are a specific type of neuron in Drosophila that produce insulin-like peptides, such as Dilp2, and play a crucial role in regulating growth and metabolism."}]}
+{"alias_pairs": [{"main_name": "IPC neuron", "alias": "insulin-producing cells", "evidence": "IPC neuron are insulin-producing cells in the PI region."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs, or insulin-producing cells, are a specific neuronal cell type in the Drosophila brain responsible for secreting insulin-like peptides such as Dilp2, Dilp3, and Dilp5."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs are insulin-producing cells located within the pars intercerebralis (PI), the insect ortholog of the hypothalamus."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs, or insulin-producing cells, are a specific type of neuronal cell in Drosophila that release insulin-like peptides and are involved in various physiological processes, including feeding and social behaviors."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs are insulin-producing cells."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs are insulin-producing cells that secrete Drosophila insulin-like peptides (DILPs) and regulate sugar metabolism, akin to mammalian pancreatic β cells."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs, or insulin-producing cells, are a specific neuronal cell type in Drosophila involved in metabolic regulation and sleep integration."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs, or insulin-producing cells, are a specific type of neuron in Drosophila that serve as sensors to peripheral signals and regulate sleep, as described in the context."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs, or insulin-producing cells, are a specific type of neurosecretory cell in the Drosophila brain responsible for synthesizing and secreting insulin-like peptides."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin producing cells", "evidence": "IPCs are insulin producing cells."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "Insulin-producing cells", "evidence": "IPCs, or Insulin-producing cells, are a specific type of neuron in the Drosophila brain that release insulin-like peptides and play a crucial role in regulating growth and metabolism."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin-producing cells", "evidence": "IPCs, or insulin-producing cells, are a specific type of neuronal cell in the Drosophila brain involved in the secretion of insulin-like peptides."}]}
+{"alias_pairs": [{"main_name": "IPCs", "alias": "insulin producing cells", "evidence": "IPCs are insulin producing cells."}]}
+{"alias_pairs": [{"main_name": "Ib MN", "alias": "type-I big motor neurons", "evidence": "Ib MN are type-I big motor neurons based on their terminal bouton size."}]}
+{"alias_pairs": [{"main_name": "Is MN", "alias": "common exciters", "evidence": "Is MNs are known as the common exciters."}]}
+{"alias_pairs": [{"main_name": "JO neuron", "alias": "Johnston's organ neuron", "evidence": "JO neurons refer to Johnston's organ neurons, which are a specific type of mechanosensory neuron involved in detecting sound and movement in Drosophila."}]}
+{"alias_pairs": [{"main_name": "JON", "alias": "Johnston's organ neurons", "evidence": "JON are Johnston’s organ neurons that detect sound-evoked vibrations of the arista."}]}
+{"alias_pairs": [{"main_name": "JON", "alias": "Johnston's Organ Neurons", "evidence": "JON refers to Johnston's Organ Neurons, which are a specific type of sensory neuron in Drosophila involved in detecting sound and wind stimuli."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in processing sensory information and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in learning and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron in the Drosophila mushroom body involved in learning and memory processes."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are the principal neurons of the mushroom body in Drosophila and are involved in olfactory associative memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron found in the mushroom bodies of Drosophila."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron found in the mushroom bodies of the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom body of Drosophila, involved in processing olfactory information."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in learning and memory processes."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC are intrinsic MB neurons known as Kenyon cells."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in processing olfactory information."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in processing sensory information and learning."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron found in the mushroom body of the Drosophila brain, involved in olfactory processing and learning."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron found in the mushroom bodies of Drosophila and are involved in olfactory learning and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron found in the mushroom body of Drosophila, involved in olfactory memory processing."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon Cells", "evidence": "KC refers to Kenyon Cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in processing sensory information and learning."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "MB Kenyon cells", "evidence": "KC are MB Kenyon cells."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon Cells", "evidence": "KC are Kenyon Cells in the mushroom body."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron found in the mushroom body of Drosophila, involved in processing olfactory information."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuronal cell in the Drosophila brain involved in olfactory learning."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom body of Drosophila and are involved in associative learning and memory formation."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of Drosophila and are involved in olfactory memory processing."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of principal neuron in the mushroom body of Drosophila, involved in processing olfactory information and learning and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of interneuron in the mushroom body of Drosophila, involved in processing olfactory information."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuronal cell found in the mushroom body of the Drosophila brain, involved in learning and memory processes."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron in the mushroom body of Drosophila, involved in olfactory processing and memory formation."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom body of the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC are Kenyon cells."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon Cells", "evidence": "KC refers to Kenyon Cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC are Kenyon cells of the mushroom body (MB) in Drosophila."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are the principal neurons of the mushroom body in Drosophila and are involved in olfactory learning and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon Cells", "evidence": "KC refers to Kenyon Cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are intrinsic neurons of the mushroom body in Drosophila, and are a well-defined neuronal cell type with specific subtypes mentioned in the text."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC are Kenyon cells in the mushroom body (MB)."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuronal cell found in the mushroom bodies of the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC are composed of 2000 neurons termed Kenyon cells in the MB."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC are Kenyon cells in the mushroom body of the fruit fly brain."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom body of the Drosophila brain, involved in learning and memory processes."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuronal cell found in the mushroom body of Drosophila."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron found in the mushroom body of Drosophila, involved in processing olfactory information and memory formation."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon Cells", "evidence": "KCs, or Kenyon Cells, are a well-known neuronal cell type in the Drosophila brain, specifically part of the mushroom body involved in learning and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are principal neurons within the Drosophila mushroom body, a specific neuronal cell type involved in learning and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in processing sensory information."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon Cells", "evidence": "KC are neurons called Kenyon Cells."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuronal cell found in the mushroom body of Drosophila and are involved in learning and memory processes."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in memory and learning processes."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon Cells", "evidence": "KC refers to Kenyon Cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in olfactory processing."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in processing sensory information and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC are the cell bodies of the MB intrinsic neurons (Kenyon cells)."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of intrinsic neuron found in the mushroom body of Drosophila, involved in processing sensory information and learning."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in olfactory processing and learning."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC refers to Kenyon cells, which are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in olfactory learning and memory."}]}
+{"alias_pairs": [{"main_name": "KC", "alias": "Kenyon cells", "evidence": "KC are intrinsic MB neurons called Kenyon cells."}]}
+{"alias_pairs": [{"main_name": "KC neuron", "alias": "Kenyon cells", "evidence": "KC neurons, or Kenyon cells, are a well-known neuronal cell type in the Drosophila brain, specifically part of the mushroom body involved in processing sensory information."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of intrinsic neuron found in the mushroom bodies of the Drosophila brain, playing a crucial role in memory and learning."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuron found in the mushroom body of Drosophila, involved in olfactory memory formation and retrieval."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are the principal neurons of the mushroom body in Drosophila and are involved in olfactory associative memory, making them a specific neuronal cell type."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of intrinsic neuron found in the mushroom bodies (MBs) of Drosophila, involved in processing sensory information and memory formation."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs are MB intrinsic neurons, Kenyon cells."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of intrinsic neuron found in the mushroom body of the Drosophila brain, involved in processing sensory information and learning."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of intrinsic neuron found in the mushroom bodies of Drosophila, responsible for encoding sensory information."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a well-defined neuronal cell type in the Drosophila mushroom body, involved in memory formation and retrieval."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuron found in the mushroom body of Drosophila, involved in representing sensory information and associative learning."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuronal cell found in the mushroom body of Drosophila, which is involved in learning and memory."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of principal neuron found in the mushroom body of Drosophila, involved in processing olfactory information and learning and memory."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuronal cell found in the mushroom body of the Drosophila brain, involved in learning and memory processes."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuron found in the mushroom bodies (MB) of the Drosophila brain, which are involved in learning and memory."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuronal cell found in the mushroom bodies of Drosophila, involved in processing sensory information and memory formation."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs are also known as Kenyon cells."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuron found in the mushroom bodies of the Drosophila brain, involved in processes such as learning and memory."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of intrinsic neuron found in the mushroom body of Drosophila, involved in processing sensory information and learning."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuron found in the mushroom body of the Drosophila brain, involved in processing olfactory information."}]}
+{"alias_pairs": [{"main_name": "KCs", "alias": "Kenyon cells", "evidence": "KCs, or Kenyon cells, are a specific type of neuron found in the mushroom body of Drosophila, involved in associative learning and memory."}]}
+{"alias_pairs": [{"main_name": "KS", "alias": "Keystone neuron", "evidence": "KS is a Keystone neuron with bilateral connections."}]}
+{"alias_pairs": [{"main_name": "Kenyon cell", "alias": "KCs", "evidence": "Kenyon cell is collectively known as KCs."}]}
+{"alias_pairs": [{"main_name": "L-cell", "alias": "lamina neurons", "evidence": "L-cells, or lamina neurons, are described as specific neuronal cell types in the lamina plexus that serve as synaptic targets for R1–R6 neurons."}]}
+{"alias_pairs": [{"main_name": "L1 MN", "alias": "Lin15B", "evidence": "L1 MN closely match previous reports of the largest MN lineage Lin15B in gross morphology and number of neurons per hemisphere."}]}
+{"alias_pairs": [{"main_name": "LAL089", "alias": "SS49952", "evidence": "LAL089 is labeled by SS49952 and is predicted to be glutamatergic."}]}
+{"alias_pairs": [{"main_name": "LC1 neuron", "alias": "asp-k or aSP8", "evidence": "LC1 neuron are also named asp-k or aSP8."}]}
+{"alias_pairs": [{"main_name": "LC11", "alias": "lobula columnar cell type 11", "evidence": "LC11 is a specific neuronal cell type in the Drosophila visual system, known as lobula columnar cell type 11, which is involved in processing visual information related to small moving objects."}]}
+{"alias_pairs": [{"main_name": "LC14", "alias": "dorsal cluster neurons", "evidence": "LC14 are also known as dorsal cluster neurons."}]}
+{"alias_pairs": [{"main_name": "LHNs", "alias": "lateral horn neurons", "evidence": "LHNs, or lateral horn neurons, are a specific type of neuron in the Drosophila brain involved in olfactory processing, as indicated by their detailed description and role in the connectome."}]}
+{"alias_pairs": [{"main_name": "LHNs", "alias": "lateral horn neurons", "evidence": "LHNs, or lateral horn neurons, are a specific type of neuron involved in integrating learned and innate signals, as mentioned in the context."}]}
+{"alias_pairs": [{"main_name": "LHNs", "alias": "lateral horn neurons", "evidence": "LHNs, or lateral horn neurons, are a specific type of neuron involved in odor processing in the Drosophila brain, as described in the context of the lateral horn's role in integrating olfactory information."}]}
+{"alias_pairs": [{"main_name": "LHON", "alias": "Lateral Horn Output Neurons", "evidence": "LHON refers to a specific neuronal cell type, namely Lateral Horn Output Neurons, which are characterized by their axonal projections beyond the lateral horn and distinct odor response properties."}]}
+{"alias_pairs": [{"main_name": "LHPV2g", "alias": "Thermosensory Lateral Horn Output Neurons", "evidence": "LHPV2g is referred to as Thermosensory Lateral Horn Output Neurons or TLHONs."}]}
+{"alias_pairs": [{"main_name": "LMC", "alias": "large monopolar cell", "evidence": "LMC, or large monopolar cell, is a specific type of visual interneuron in Drosophila involved in processing visual information from photoreceptors."}]}
+{"alias_pairs": [{"main_name": "LMC neuron", "alias": "lamina monopolar cells", "evidence": "LMC neurons, or lamina monopolar cells, are a specific type of neuronal cell in the Drosophila visual system that receive synaptic inputs from photoreceptor cells R1-6."}]}
+{"alias_pairs": [{"main_name": "LN(v)", "alias": "lateral neurons ventral", "evidence": "LN(v) refers to a specific neuronal cell type known as lateral neurons ventral, which are involved in circadian rhythms and light response in Drosophila larvae."}]}
+{"alias_pairs": [{"main_name": "LN-V", "alias": "large ventral lateral clock neurons", "evidence": "LN-V correspond to the large ventral lateral clock neurons."}]}
+{"alias_pairs": [{"main_name": "LNC", "alias": "lateral neurosecretory cells", "evidence": "LNC are lateral neurosecretory cells."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "dorso-lateral neurons", "evidence": "LNd are dorso-lateral neurons."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "dorsal lateral neurons", "evidence": "LNd are dorsal lateral neurons."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "dorsal LNvs", "evidence": "LNd are dorsal LNvs."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "dorsal lateral neurons", "evidence": "LNd are dorsal lateral neurons."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "evening cells (E-cells)", "evidence": "LNd are known as evening cells (E-cells) as they drive the E-peak."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "dorsolateral neurons", "evidence": "LNds are dorsolateral neurons in the lateral brain."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "dorsal lateral neurons", "evidence": "LNd are dorsal lateral neurons."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "dorsal lateral neurons", "evidence": "LNd are classified as dorsal lateral neurons."}]}
+{"alias_pairs": [{"main_name": "LNd", "alias": "dorsal Lateral neurons", "evidence": "LNd are dorsal Lateral neurons."}]}
+{"alias_pairs": [{"main_name": "LNd6", "alias": "LNd-E2", "evidence": "LNd6 corresponds to LNd-E2, which sends more extensive ventral projections compared to the E1 LNds."}]}
+{"alias_pairs": [{"main_name": "LNds", "alias": "dorso-lateral neurons", "evidence": "LNds, or dorso-lateral neurons, are described as a specific group of clock neurons involved in circadian rhythms in Drosophila, indicating that they are a neuronal cell type."}]}
+{"alias_pairs": [{"main_name": "LNds", "alias": "E-cells", "evidence": "LNds control evening activity bouts and are defined as evening oscillator (E-cells)."}]}
+{"alias_pairs": [{"main_name": "LNds", "alias": "dorsolateral neurons", "evidence": "LNds, or dorsolateral neurons, are a specific neuronal cell type involved in the regulation of circadian rhythms in Drosophila, as described in the context of evening cells."}]}
+{"alias_pairs": [{"main_name": "LNvs", "alias": "ventrolateral neurons", "evidence": "LNvs, or ventrolateral neurons, are a specific type of clock-expressing neuron in Drosophila that play a crucial role in driving locomotor activity rhythms."}]}
+{"alias_pairs": [{"main_name": "LNvs", "alias": "lateral ventral neurons", "evidence": "LNvs, or lateral ventral neurons, are a specific subtype of clock neurons in Drosophila, indicating that they are a distinct neuronal cell type."}]}
+{"alias_pairs": [{"main_name": "LNvs", "alias": "ventral lateral neurons", "evidence": "LNvs, or ventral lateral neurons, are a specific group of projection neurons in the Drosophila larval visual circuit, making them a distinct neuronal cell type."}]}
+{"alias_pairs": [{"main_name": "LNvs", "alias": "lateral ventral neurons", "evidence": "LNvs, or lateral ventral neurons, are a specific type of neuronal cell involved in the circadian rhythm network in Drosophila, as indicated by their role in the described pathways."}]}
+{"alias_pairs": [{"main_name": "LNvs", "alias": "Lateral Neurons ventral", "evidence": "LNvs, or Lateral Neurons ventral, are a specific type of neuronal cell involved in the circadian rhythms of Drosophila, as described in the context of the paragraph."}]}
+{"alias_pairs": [{"main_name": "LPC", "alias": "Lobula Plate Columnar neurons", "evidence": "LPC, or Lobula Plate Columnar neurons, are a specific type of neuron involved in the translational optic flow detection circuit downstream of T4/T5 neurons in the Drosophila optic lobe."}]}
+{"alias_pairs": [{"main_name": "LPN", "alias": "Lateral Posterior Neurons", "evidence": "LPN are Lateral Posterior Neurons."}]}
+{"alias_pairs": [{"main_name": "LPN", "alias": "lateral-posterior neurons", "evidence": "LPN are lateral-posterior neurons."}]}
+{"alias_pairs": [{"main_name": "LPN", "alias": "lateral posterior neurons", "evidence": "LPN are lateral posterior neurons."}]}
+{"alias_pairs": [{"main_name": "LPN", "alias": "lateral posterior neurons", "evidence": "LPN are lateral posterior neurons."}]}
+{"alias_pairs": [{"main_name": "LPT neuron", "alias": "Lobula Plate Tangential Cells", "evidence": "LPT neuron represents a group of neurons known as Lobula Plate Tangential Cells."}]}
+{"alias_pairs": [{"main_name": "LPTC", "alias": "Lobula Plate Tangential Cells", "evidence": "LPTC, or Lobula Plate Tangential Cells, are a specific type of neuron involved in integrating local motion signals into a global optic flow in the Drosophila optic lobe."}]}
+{"alias_pairs": [{"main_name": "LPTC", "alias": "lobula plate tangential cells", "evidence": "LPTC refers to \"lobula plate tangential cells,\" which are a specific type of neuron involved in processing wide-field motion in Drosophila."}]}
+{"alias_pairs": [{"main_name": "LPTC", "alias": "lobula plate tangential cells", "evidence": "LPTC refers to lobula plate tangential cells, which are a specific type of neuron involved in integrating excitatory input from T4/T5 cells in the Drosophila visual system."}]}
+{"alias_pairs": [{"main_name": "LPTC", "alias": "lobula plate tangential cells", "evidence": "LPTC refers to lobula plate tangential cells, which are a specific family of giant neurons involved in visual motion detection in Drosophila."}]}
+{"alias_pairs": [{"main_name": "LPTC", "alias": "lobula plate tangential neurons", "evidence": "LPTC are lobula plate tangential neurons."}]}
+{"alias_pairs": [{"main_name": "LPi1-2", "alias": "LPi14", "evidence": "LPi1-2 is also known as LPi14."}]}
+{"alias_pairs": [{"main_name": "LPi14", "alias": "LPi1-2", "evidence": "LPi14 is also known as LPi1-2."}]}
+{"alias_pairs": [{"main_name": "LPi⇐T5b⇒TmY17", "alias": "LPi2-1", "evidence": "LPi⇐T5b⇒TmY17 was called LPi2-1 by another source."}]}
+{"alias_pairs": [{"main_name": "LPsP", "alias": "T1", "evidence": "LPsP were previously named T1."}]}
+{"alias_pairs": [{"main_name": "LP⇐T5a⇒H2", "alias": "LPi1-2", "evidence": "LP⇐T5a⇒H2 was originally called LPi1-2."}]}
+{"alias_pairs": [{"main_name": "LT-MN", "alias": "SRN", "evidence": "LT-MN are established as the SRN cells."}]}
+{"alias_pairs": [{"main_name": "Lccn2 neuron", "alias": "Lobula complex columnar neurons 2", "evidence": "Lccn2 neuron resembles Lobula complex columnar neurons 2."}]}
+{"alias_pairs": [{"main_name": "Li11", "alias": "Li25", "evidence": "Li11 is replaced by the new name Li25."}]}
+{"alias_pairs": [{"main_name": "Li19", "alias": "pseudo-Li11", "evidence": "Li19 was introduced as a new name to replace pseudo-Li11."}]}
+{"alias_pairs": [{"main_name": "Li23", "alias": "Tm", "evidence": "Li23 was originally classified as Tm because its cell bodies are in the distal rind of the medulla."}]}
+{"alias_pairs": [{"main_name": "Li25", "alias": "Li11", "evidence": "Li25 was introduced as a new name to replace Li11."}]}
+{"alias_pairs": [{"main_name": "Li⇐T5a", "alias": "Tm23", "evidence": "Li⇐T5a was previously called Tm23."}]}
+{"alias_pairs": [{"main_name": "Li⇐Tm5_f⇒LT87", "alias": "Tm24", "evidence": "Li⇐Tm5_f⇒LT87 was previously called Tm24."}]}
+{"alias_pairs": [{"main_name": "Lk neuron", "alias": "leucokinin neurons", "evidence": "Lk neurons, or leucokinin neurons, are specifically mentioned as a neuronal cell type involved in the regulation of sleep and metabolic state in Drosophila."}]}
+{"alias_pairs": [{"main_name": "M", "alias": "A19f", "evidence": "M neurons, identified as A19f, receive input from A18b, which is directly downstream of Mooncrawler (MDN), a backwards command neuron."}]}
+{"alias_pairs": [{"main_name": "M-cell", "alias": "s-LNv", "evidence": "M-cell is also known as s-LNv."}]}
+{"alias_pairs": [{"main_name": "M-cell", "alias": "s-LNv neurons", "evidence": "M-cell refers to s-LNv neurons."}]}
+{"alias_pairs": [{"main_name": "M4β′", "alias": "MBON-β′2mp", "evidence": "M4β′ has been renamed as MBON-β′2mp."}]}
+{"alias_pairs": [{"main_name": "M6", "alias": "MBON-γ5β’2a", "evidence": "M6 are glutamatergic neurons also known as MBON-γ5β’2a neurons."}]}
+{"alias_pairs": [{"main_name": "M6", "alias": "MBON-γ5β′2a", "evidence": "M6 is a type of MBON (mushroom body output neuron) known as MBON-γ5β′2a."}]}
+{"alias_pairs": [{"main_name": "MAN", "alias": "moonwalker ascending neuron", "evidence": "MAN is named for \"moonwalker ascending neuron.\""}]}
+{"alias_pairs": [{"main_name": "MAN", "alias": "Moonwalker Ascending Neurons", "evidence": "MAN refers to Moonwalker Ascending Neurons, which are a specific type of neuron involved in controlling backwards walking in Drosophila."}]}
+{"alias_pairs": [{"main_name": "MAP", "alias": "Male-specific Aggression-Promoting neurons", "evidence": "MAP neurons are referred to as Male-specific Aggression-Promoting neurons."}]}
+{"alias_pairs": [{"main_name": "MB-CP2", "alias": "Mushroom Body Calyx Pedunculus #2", "evidence": "MB-CP2 is a previously unknown neuron named \"Mushroom Body Calyx Pedunculus #2.\""}]}
+{"alias_pairs": [{"main_name": "MB-FBNs", "alias": "Mushroom Body Feedback Neurons", "evidence": "MB-FBNs, or Mushroom Body Feedback Neurons, are a specific type of neuron involved in the feedback loop within the mushroom body, a key structure in the Drosophila brain associated with learning and memory."}]}
+{"alias_pairs": [{"main_name": "MB-M6", "alias": "MBON-γ5β′2a", "evidence": "MB-M6 is also known as MBON-γ5β′2a."}]}
+{"alias_pairs": [{"main_name": "MB-MP1", "alias": "PPL1-γ1pedc", "evidence": "MB-MP1, also known as PPL1-γ1pedc, is a specific type of dopaminergic neuron involved in memory formation and dynamics in Drosophila."}]}
+{"alias_pairs": [{"main_name": "MB-MP1", "alias": "PPL1-γ1pedc", "evidence": "MB-MP1 is also known as PPL1-γ1pedc."}]}
+{"alias_pairs": [{"main_name": "MB-MP1", "alias": "DAN-c1", "evidence": "MB-MP1 is consistent with the previously published nomenclature indicating it is DAN-c1."}]}
+{"alias_pairs": [{"main_name": "MB-MVP2", "alias": "MBON-γ1pedc>αβ", "evidence": "MB-MVP2 is also known as MBON-γ1pedc>αβ and MBON-11."}, {"main_name": "MB-MVP2", "alias": "MBON-11", "evidence": "MB-MVP2 is also known as MBON-γ1pedc>αβ and MBON-11."}]}
+{"alias_pairs": [{"main_name": "MB-MVP2", "alias": "MBON-γ1pedc", "evidence": "MB-MVP2 is also known as MBON-γ1pedc."}]}
+{"alias_pairs": [{"main_name": "MB-V2", "alias": "MBON-α2sc", "evidence": "MB-V2 is also known as MBON-α2sc."}]}
+{"alias_pairs": [{"main_name": "MB-V2α", "alias": "MBON-α2sc", "evidence": "MB-V2α is also known as MBON-α2sc."}]}
+{"alias_pairs": [{"main_name": "MB-V3", "alias": "MBON-α3", "evidence": "MB-V3 is also known as MBON-α3."}]}
+{"alias_pairs": [{"main_name": "MB296B DAN", "alias": "PPL1-γ2α'1", "evidence": "MB296B DAN are PPL1-γ2α'1 dopaminergic neurons."}]}
+{"alias_pairs": [{"main_name": "MBIN", "alias": "DANs", "evidence": "MBIN are mostly dopaminergic neurons, also known as DANs."}]}
+{"alias_pairs": [{"main_name": "MBN", "alias": "Mushroom Body Neurons", "evidence": "MBN are Mushroom body neurons."}]}
+{"alias_pairs": [{"main_name": "MBON", "alias": "Mushroom Body Output Neurons", "evidence": "MBON refers to Mushroom Body Output Neurons, which are a specific type of neuronal cell in the Drosophila brain involved in processing olfactory information."}]}
+{"alias_pairs": [{"main_name": "MBON", "alias": "Mushroom Body Output Neurons", "evidence": "MBON refers to Mushroom Body Output Neurons, which are a specific type of neuronal cell involved in processing and transmitting information within the mushroom body of Drosophila."}]}
+{"alias_pairs": [{"main_name": "MBON", "alias": "Mushroom Body Output Neurons", "evidence": "MBON refers to Mushroom Body Output Neurons, which are a specific type of neuronal cell involved in processing and transmitting information from the mushroom body in Drosophila."}]}
+{"alias_pairs": [{"main_name": "MBON", "alias": "Mushroom Body Output Neurons", "evidence": "MBON refers to Mushroom Body Output Neurons, which are specific neuronal cell types involved in encoding valence and mediating behavioral output in the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "MBON", "alias": "MB output neuron", "evidence": "MBON is the MB output neuron."}]}
+{"alias_pairs": [{"main_name": "MBON", "alias": "mushroom body output neurons", "evidence": "MBON are mushroom body output neurons."}]}
+{"alias_pairs": [{"main_name": "MBON", "alias": "Mushroom Body Output Neurons", "evidence": "MBON refers to Mushroom Body Output Neurons, which are a specific type of neuron involved in representing learned valences of stimuli in the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "MBON", "alias": "Mushroom Body Output Neurons", "evidence": "MBON refers to Mushroom Body Output Neurons, which are a specific type of neuron in the Drosophila brain involved in processing olfactory information and encoding valence."}]}
+{"alias_pairs": [{"main_name": "MBON γ3", "alias": "MB-V3", "evidence": "MBON γ3 is also called MB-V3."}]}
+{"alias_pairs": [{"main_name": "MBON-11", "alias": "MB-MVP2", "evidence": "MBON-11 is also known as MB-MVP2."}]}
+{"alias_pairs": [{"main_name": "MBON-α2sc", "alias": "MB-V2α", "evidence": "MBON-α2sc is also known as MB-V2α."}]}
+{"alias_pairs": [{"main_name": "MBON-γ3", "alias": "MB-V3", "evidence": "MBON-γ3 is also known as MB-V3."}]}
+{"alias_pairs": [{"main_name": "MBON-α′1", "alias": "MBON15", "evidence": "MBON-α′1 is also known as MBON15."}]}
+{"alias_pairs": [{"main_name": "MBON-β'2mp", "alias": "MB-M4", "evidence": "MBON-β'2mp is also known as MB-M4."}]}
+{"alias_pairs": [{"main_name": "MBON-γ1pedc", "alias": "MB-MVP2", "evidence": "MBON-γ1pedc is also known as MB-MVP2."}]}
+{"alias_pairs": [{"main_name": "MBON-γ1pedc > α/β", "alias": "MVP2", "evidence": "MBON-γ1pedc > α/β is also named MVP2."}]}
+{"alias_pairs": [{"main_name": "MBON-γ1pedc>α/β", "alias": "MVP2 neurons", "evidence": "MBON-γ1pedc>α/β are also called MVP2 neurons."}]}
+{"alias_pairs": [{"main_name": "MBON-γ1pedc>αβ", "alias": "MB-MVP2", "evidence": "MBON-γ1pedc>αβ is also known as MB-MVP2 and MBON-11."}, {"main_name": "MBON-γ1pedc>αβ", "alias": "MBON-11", "evidence": "MBON-γ1pedc>αβ is also known as MB-MVP2 and MBON-11."}]}
+{"alias_pairs": [{"main_name": "MBON-γ5β’2a neuron", "alias": "glutamatergic M6 neurons", "evidence": "MBON-γ5β’2a neuron are also known as the glutamatergic M6 neurons."}]}
+{"alias_pairs": [{"main_name": "MBON-γ5β′2a", "alias": "MB-M6", "evidence": "MBON-γ5β′2a is also known as MB-M6."}]}
+{"alias_pairs": [{"main_name": "MBON15", "alias": "MBON-α′1", "evidence": "MBON15 is also known as MBON-α′1."}]}
+{"alias_pairs": [{"main_name": "MBON21", "alias": "type MBON21 cells", "evidence": "MBON21 are also known as type MBON21 cells."}]}
+{"alias_pairs": [{"main_name": "MBONs", "alias": "Mushroom Body Output Neurons", "evidence": "MBONs, or Mushroom Body Output Neurons, are a specific type of neuronal cell in Drosophila that play a role in processing olfactory information and mediating behavioral responses."}]}
+{"alias_pairs": [{"main_name": "MBONs", "alias": "Mushroom Body Output Neurons", "evidence": "MBONs, or Mushroom Body Output Neurons, are a specific type of neuron involved in representing learned valences of stimuli in the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "MBβ5 MBON", "alias": "glutamatergic M6 neurons", "evidence": "MBβ5 MBON are the glutamatergic M6 neurons."}]}
+{"alias_pairs": [{"main_name": "MC61 neuron", "alias": "medullar columnar 61 neurons", "evidence": "MC61 neuron are also known as medullar columnar 61 neurons."}]}
+{"alias_pairs": [{"main_name": "MD-cell", "alias": "l-LNv", "evidence": "MD-cell is a pacemaker neuron (l-LNv)."}]}
+{"alias_pairs": [{"main_name": "MDN", "alias": "mooncrawler/moonwalker descending neuron", "evidence": "MDN, or mooncrawler/moonwalker descending neuron, is described as a specific neuronal cell type involved in backward locomotion in Drosophila, present as a bilateral pair in each brain lobe."}]}
+{"alias_pairs": [{"main_name": "MDN", "alias": "moonwalker descending neuron", "evidence": "MDN is a moonwalker descending neuron."}]}
+{"alias_pairs": [{"main_name": "MDN", "alias": "Moonwalker Descending Neurons", "evidence": "MDN refers to the Moonwalker Descending Neurons, which are a specific class of descending neurons involved in controlling backward walking in Drosophila."}]}
+{"alias_pairs": [{"main_name": "MDN", "alias": "moonwalker descending neuron", "evidence": "MDN, or \"moonwalker descending neuron,\" is identified as a specific neuronal cell type involved in controlling walking direction in Drosophila."}]}
+{"alias_pairs": [{"main_name": "MDN", "alias": "moonwalker descending neurons", "evidence": "MDN are moonwalker descending neurons that trigger backward walking."}]}
+{"alias_pairs": [{"main_name": "MDN", "alias": "moonwalker descending neurons", "evidence": "MDN are moonwalker descending neurons."}]}
+{"alias_pairs": [{"main_name": "MDN", "alias": "Moonwalker Descending Neurons", "evidence": "MDN are Moonwalker Descending Neurons."}]}
+{"alias_pairs": [{"main_name": "MDN", "alias": "Moonwalker Descending Neurons", "evidence": "MDNs are a pair of descending neurons identified as Moonwalker Descending Neurons."}]}
+{"alias_pairs": [{"main_name": "MDNa", "alias": "mooncrawler descending neurons", "evidence": "MDNa is part of a bilateral pair of neurons named the 'mooncrawler' descending neurons."}]}
+{"alias_pairs": [{"main_name": "MF01", "alias": "LBL40", "evidence": "MF01 corresponds to the LBL40 cells in the systematic classification of leg neuropil neurons."}]}
+{"alias_pairs": [{"main_name": "MF09", "alias": "LUL130", "evidence": "MF09 corresponds to LUL130 in the systematic classification of leg neuropil neurons."}]}
+{"alias_pairs": [{"main_name": "MIL", "alias": "Midline Internal Lgr3-positive neurons", "evidence": "MIL are the most anterior pair of labeled neurons described as Midline Internal Lgr3-positive neurons."}]}
+{"alias_pairs": [{"main_name": "MIL neuron", "alias": "midline internal Lgr3 neurons", "evidence": "MIL neurons, or midline internal Lgr3 neurons, are described as a specific pair of neurons located in the thoracic segment of the VNC, characterized by their expression of Lgr3 and distinct neuroanatomy."}]}
+{"alias_pairs": [{"main_name": "MN1-GAL4", "alias": "MN1-Ib-GAL4", "evidence": "MN1 expresses selectively in the GAL4 line MN1-GAL4 (previously referred to as MN1-Ib-GAL4)."}]}
+{"alias_pairs": [{"main_name": "MN1-Ib", "alias": "type-I big MN (Ib MN)", "evidence": "MN1-Ib is an excitatory glutamatergic motor neuron (MN) known as type-I big MN (Ib MN) based on its terminal bouton size."}]}
+{"alias_pairs": [{"main_name": "MNISN-1s", "alias": "RP2", "evidence": "MNISN-1s are known as RP2 during embryonic development."}]}
+{"alias_pairs": [{"main_name": "MNs", "alias": "motoneurons", "evidence": "MNs refer to motoneurons, which are a specific type of neuron responsible for transmitting signals from the spinal cord to muscles, causing them to contract."}]}
+{"alias_pairs": [{"main_name": "MNs", "alias": "motoneurons", "evidence": "MNs refer to motoneurons, which are a specific type of neuronal cell responsible for transmitting signals from the brain and spinal cord to muscles, causing them to contract."}]}
+{"alias_pairs": [{"main_name": "MNs", "alias": "motor neurons", "evidence": "MNs, or motor neurons, are a specific type of neuronal cell responsible for innervating muscles and generating motor outputs, as described in the context of the Drosophila larva's locomotion."}]}
+{"alias_pairs": [{"main_name": "MP1", "alias": "PPL1-γ1pedc neurons", "evidence": "MP1 are also known as PPL1-γ1pedc neurons."}]}
+{"alias_pairs": [{"main_name": "MP1", "alias": "PPL1-γ1pedc", "evidence": "MP1 are also known as PPL1-γ1pedc neurons."}]}
+{"alias_pairs": [{"main_name": "MP1", "alias": "PPL1-γ1pedc", "evidence": "MP1 is also named PPL1-γ1pedc."}]}
+{"alias_pairs": [{"main_name": "MP1", "alias": "PPL1-γ1>pedc", "evidence": "MP1 neurons are a specific pair of neurons also known as PPL1-γ1>pedc."}]}
+{"alias_pairs": [{"main_name": "MVP2", "alias": "MBON-γ1pedc > α/β", "evidence": "MVP2 is also named MBON-γ1pedc > α/β."}]}
+{"alias_pairs": [{"main_name": "MVP2", "alias": "MBON-γ1pedc>α/β", "evidence": "MVP2 neurons are also called MBON-γ1pedc>α/β."}]}
+{"alias_pairs": [{"main_name": "MVP2", "alias": "MBON-γ1pedc>α/β", "evidence": "MVP2 is also known as MBON-γ1pedc>α/β."}]}
+{"alias_pairs": [{"main_name": "Mip/dsx neuron", "alias": "ventral anterior lateral neurons of the AG (vAL)", "evidence": "Mip/dsx neuron are proposed to be named ventral anterior lateral neurons of the AG (vAL)."}]}
+{"alias_pairs": [{"main_name": "Mt", "alias": "medulla tangential cells", "evidence": "Mt cells are medulla tangential cells."}]}
+{"alias_pairs": [{"main_name": "Mz699+ ventral PN", "alias": "inhibitory PNs (iPNs)", "evidence": "Mz699+ ventral PN are referred to as inhibitory PNs (iPNs) to distinguish them from excitatory PNs (ePNs)."}]}
+{"alias_pairs": [{"main_name": "Nba neuron", "alias": "Or35a neurons", "evidence": "Nba neuron is assigned the identity of Or35a neurons."}]}
+{"alias_pairs": [{"main_name": "OGIN", "alias": "optic-glomeruli interneurons", "evidence": "OGIN are optic-glomeruli interneurons."}]}
+{"alias_pairs": [{"main_name": "ORN", "alias": "olfactory receptor neuron", "evidence": "ORN stands for olfactory receptor neuron, which is a specific type of neuron involved in detecting odors in Drosophila."}]}
+{"alias_pairs": [{"main_name": "ORN", "alias": "olfactory receptor neuron", "evidence": "ORN stands for olfactory receptor neuron, which is a specific type of neuron involved in receiving olfactory information and transmitting it to the brain."}]}
+{"alias_pairs": [{"main_name": "ORN", "alias": "Olfactory Receptor Neuron", "evidence": "ORN stands for Olfactory Receptor Neuron, which is a specific type of neuron involved in the detection and transmission of olfactory information in Drosophila."}]}
+{"alias_pairs": [{"main_name": "ORN", "alias": "Olfactory Receptor Neurons", "evidence": "ORN stands for Olfactory Receptor Neurons, which are a specific type of neuronal cell involved in detecting odors and are part of the olfactory system in Drosophila."}]}
+{"alias_pairs": [{"main_name": "ORN", "alias": "olfactory receptor neurons", "evidence": "ORN refers to olfactory receptor neurons, which are a specific type of neuronal cell involved in detecting odorant cues in Drosophila."}]}
+{"alias_pairs": [{"main_name": "ORNs", "alias": "olfactory receptor neurons", "evidence": "ORNs, or olfactory receptor neurons, are a specific type of neuronal cell involved in detecting odors and are mentioned as primary presynaptic partners of PNs in the context."}]}
+{"alias_pairs": [{"main_name": "ORNs", "alias": "olfactory receptor neurons", "evidence": "ORNs, or olfactory receptor neurons, are a specific type of neuronal cell that reside in the antennae and maxillary palps of Drosophila, responsible for detecting odors and projecting axons to the antennal lobe."}]}
+{"alias_pairs": [{"main_name": "ORNs", "alias": "olfactory receptor neurons", "evidence": "ORNs, or olfactory receptor neurons, are a specific type of neuronal cell responsible for detecting odor molecules and transmitting this information to the brain."}]}
+{"alias_pairs": [{"main_name": "ORNs", "alias": "olfactory receptor neurons", "evidence": "ORNs, or olfactory receptor neurons, are a specific type of neuronal cell responsible for detecting odorant cues in Drosophila."}]}
+{"alias_pairs": [{"main_name": "OSN", "alias": "olfactory sensory neurons", "evidence": "OSN refers to olfactory sensory neurons, which are a specific type of neuronal cell involved in detecting odors in Drosophila."}]}
+{"alias_pairs": [{"main_name": "OSN", "alias": "olfactory sensory neuron", "evidence": "OSN are olfactory sensory neurons."}]}
+{"alias_pairs": [{"main_name": "OSN", "alias": "Olfactory Sensory Neuron", "evidence": "OSN stands for Olfactory Sensory Neuron, which is a specific type of neuron involved in the detection of odors in the olfactory system of Drosophila."}]}
+{"alias_pairs": [{"main_name": "OSN", "alias": "olfactory sensory neuron", "evidence": "OSN stands for olfactory sensory neuron, which is a specific type of neuron involved in the detection of odorants in the olfactory system of Drosophila."}]}
+{"alias_pairs": [{"main_name": "Or13a neuron", "alias": "ab6A neuron", "evidence": "Or13a neuron has a similar odor-tuning profile to ab6A neurons measured by single-sensillum recordings."}]}
+{"alias_pairs": [{"main_name": "Or65a ORN", "alias": "at4B", "evidence": "Or65a ORN was previously designated as at4B without clear evidence for its intermediate spike amplitude."}]}
+{"alias_pairs": [{"main_name": "Or65a OSN", "alias": "cVA receptors", "evidence": "Or65a OSN are identified as cVA receptors."}]}
+{"alias_pairs": [{"main_name": "Or88a ORN", "alias": "at4C neuron", "evidence": "Or88a ORN likely corresponds to the at4C neuron in the T3 sensillum."}]}
+{"alias_pairs": [{"main_name": "P-EN", "alias": "protocerebral bridge-ellipsoid body-noduli cells", "evidence": "P-EN are protocerebral bridge-ellipsoid body-noduli cells."}]}
+{"alias_pairs": [{"main_name": "P-EN2", "alias": "PBG2–9.s-EBt.b-NO1.b", "evidence": "P-EN2 are also referred to as PBG2–9.s-EBt.b-NO1.b, PEN, or 'shifting neurons'."}, {"main_name": "P-EN2", "alias": "PEN", "evidence": "P-EN2 are also referred to as PBG2–9.s-EBt.b-NO1.b, PEN, or 'shifting neurons'."}, {"main_name": "P-EN2", "alias": "shifting neurons", "evidence": "P-EN2 are also referred to as PBG2–9.s-EBt.b-NO1.b, PEN, or 'shifting neurons'."}]}
+{"alias_pairs": [{"main_name": "P0", "alias": "Picky 0 neuron", "evidence": "P0 is a Picky 0 neuron."}]}
+{"alias_pairs": [{"main_name": "P1", "alias": "pMP4/-e neurons", "evidence": "P1 neurons are also known as pMP4/-e neurons."}]}
+{"alias_pairs": [{"main_name": "P1", "alias": "pMPe", "evidence": "P1 neurons are a group of neurons in the protocerebrum known as pMPe, pMP4, or pC1."}, {"main_name": "P1", "alias": "pMP4", "evidence": "P1 neurons are a group of neurons in the protocerebrum known as pMPe, pMP4, or pC1."}, {"main_name": "P1", "alias": "pC1", "evidence": "P1 neurons are a group of neurons in the protocerebrum known as pMPe, pMP4, or pC1."}]}
+{"alias_pairs": [{"main_name": "P1 neuron", "alias": "pC1 neuron", "evidence": "P1 neurons, also referred to as pC1 neurons, are a specific neuronal cell type involved in coordinating behaviors such as sleep and courtship in Drosophila."}]}
+{"alias_pairs": [{"main_name": "P2", "alias": "P2-GAL4", "evidence": "P2 neurons are labelled by the split-GAL4 driver, SS0020-split-GAL4 (abbreviated as P2-GAL4)."}]}
+{"alias_pairs": [{"main_name": "P9", "alias": "DNp09", "evidence": "P9 is referred to as a specific type of descending neuron (DNp09) that drives forward turning, indicating it is a neuronal cell type involved in walking-promoting pathways."}]}
+{"alias_pairs": [{"main_name": "PAM", "alias": "protocerebral anterior medial neurons", "evidence": "PAM neurons are called the protocerebral anterior medial neurons."}]}
+{"alias_pairs": [{"main_name": "PAM-γ5 neuron", "alias": "aSP13 class of DANs", "evidence": "PAM-γ5 neuron is also known as the aSP13 class of DANs."}]}
+{"alias_pairs": [{"main_name": "PAM-γ5(fb)", "alias": "PAM-γ5(dd)", "evidence": "PAM-γ5(fb) were previously defined as PAM-γ5(dd) subtype."}]}
+{"alias_pairs": [{"main_name": "PB-EB-NO neuron", "alias": "tile neurons", "evidence": "PB-EB-NO neuron is also known as \"tile\" neurons."}]}
+{"alias_pairs": [{"main_name": "PB-EB-gall neuron", "alias": "wedge neurons", "evidence": "PB-EB-gall neuron is also known as \"wedge\" neurons."}]}
+{"alias_pairs": [{"main_name": "PB.b-LAL.s-PS.s", "alias": "T1", "evidence": "PB.b-LAL.s-PS.s have been previously named T1."}]}
+{"alias_pairs": [{"main_name": "PEN", "alias": "posterior enteric neurons", "evidence": "PEN are referred to as posterior enteric neurons."}]}
+{"alias_pairs": [{"main_name": "PEcG", "alias": "canal P-EG neurons", "evidence": "PEcG neurons are canal P-EG neurons."}]}
+{"alias_pairs": [{"main_name": "PFN (main)", "alias": "PEN", "evidence": "PFN (main) cells are identical to the PEN cells in terms of their columnar projection pattern."}]}
+{"alias_pairs": [{"main_name": "PIL", "alias": "growth coordinating Lgr3 (GCL) neurons", "evidence": "PIL are also known as growth coordinating Lgr3 (GCL) neurons."}]}
+{"alias_pairs": [{"main_name": "PIL neuron", "alias": "pars intercerebralis Lgr3 neurons", "evidence": "PIL neurons (pars intercerebralis Lgr3 neurons) are specifically described as a distinct neuronal cell type with unique anatomical and functional characteristics in the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "PM1", "alias": "posterior-medial 1", "evidence": "PM1 is named based on its spatial location as posterior-medial 1."}]}
+{"alias_pairs": [{"main_name": "PMP2", "alias": "posterior medial protocerebral 2 neurons", "evidence": "PMP2 were previously annotated as posterior medial protocerebral 2 neurons."}]}
+{"alias_pairs": [{"main_name": "PN", "alias": "Projection Neurons", "evidence": "PN refers to Projection Neurons, which are a specific type of neuronal cell that transmit information from the olfactory sensory neurons to higher brain centers in Drosophila."}]}
+{"alias_pairs": [{"main_name": "PNs", "alias": "projection neurons", "evidence": "PNs, or projection neurons, are a specific type of neuronal cell found in the antennal lobe of Drosophila, responsible for transmitting olfactory information from the antennal lobe to other brain regions."}]}
+{"alias_pairs": [{"main_name": "PNs", "alias": "projection neurons", "evidence": "PNs, or projection neurons, are a specific type of neuron involved in transmitting information from the olfactory receptor neurons to the Kenyon cells in the mushroom body of Drosophila."}]}
+{"alias_pairs": [{"main_name": "PNv-1", "alias": "biVPN", "evidence": "PNv-1 is also referred to as biVPN."}]}
+{"alias_pairs": [{"main_name": "PPL1-γ1>pedc", "alias": "MP1 neurons", "evidence": "PPL1-γ1>pedc are also known as MP1 neurons."}]}
+{"alias_pairs": [{"main_name": "PPL1-γ1pedc", "alias": "MB-MP1", "evidence": "PPL1-γ1pedc, also known as MB-MP1, can substitute for US delivery when paired with odor presentation to form an aversive association."}]}
+{"alias_pairs": [{"main_name": "PPL1-γ1pedc", "alias": "MP1 DAN", "evidence": "PPL1-γ1pedc is also named MP1 DAN."}]}
+{"alias_pairs": [{"main_name": "PPL1-γ1pedc DAN", "alias": "MP1", "evidence": "PPL1-γ1pedc DAN are also called MP1."}]}
+{"alias_pairs": [{"main_name": "PPL1-γ1pedc neuron", "alias": "MP1 neuron", "evidence": "PPL1-γ1pedc neuron is also known as MP1 neuron."}]}
+{"alias_pairs": [{"main_name": "PPM2 neuron", "alias": "DA-WED cells", "evidence": "PPM2 neuron are named DA-WED cells based on their projection pattern."}]}
+{"alias_pairs": [{"main_name": "PPN1", "alias": "Pheromone Projection Neuron class 1", "evidence": "PPN1 are named Pheromone Projection Neuron class 1."}]}
+{"alias_pairs": [{"main_name": "PRW.248", "alias": "Peep neurons", "evidence": "PRW.248 belong to the same class of SEZ neurons previously dubbed “Peep” neurons."}, {"main_name": "PRW.248", "alias": "Crop-innervating Enteric Motor (CEM) neurons", "evidence": "PRW.248 are renamed as Crop-innervating Enteric Motor (CEM) neurons to reflect their anatomical organisation."}]}
+{"alias_pairs": [{"main_name": "PRW.249", "alias": "Crop-innervating Enteric Motor (CEM) neuron", "evidence": "PRW.249 is renamed as a Crop-innervating Enteric Motor (CEM) neuron to reflect its anatomical organization."}]}
+{"alias_pairs": [{"main_name": "PRW.263", "alias": "Crop-innervating Enteric Motor (CEM) neuron", "evidence": "PRW.263 is renamed as a Crop-innervating Enteric Motor (CEM) neuron to reflect its anatomical organization."}]}
+{"alias_pairs": [{"main_name": "PRW.274", "alias": "Crop-innervating Enteric Motor (CEM) neuron", "evidence": "PRW.274 is renamed as a Crop-innervating Enteric Motor (CEM) neuron to reflect its anatomical organization."}]}
+{"alias_pairs": [{"main_name": "PRW.281", "alias": "Crop-innervating Enteric Motor (CEM) neurons", "evidence": "PRW.281 are renamed as Crop-innervating Enteric Motor (CEM) neurons to reflect their anatomical organisation."}]}
+{"alias_pairs": [{"main_name": "PRW.310", "alias": "Crop-innervating Enteric Motor (CEM) neuron", "evidence": "PRW.310 is renamed as a Crop-innervating Enteric Motor (CEM) neuron to reflect its anatomical organization."}]}
+{"alias_pairs": [{"main_name": "PVLP.SLP.13", "alias": "SLP306", "evidence": "PVLP.SLP.13 is also known as SLP306 in the hemibrain."}]}
+{"alias_pairs": [{"main_name": "PVM neuron", "alias": "touch neuron", "evidence": "PVM neuron is a mechanosensory neuron, also called a touch neuron."}]}
+{"alias_pairs": [{"main_name": "Pm neuron", "alias": "proximal medulla neurons", "evidence": "Pm neurons, or proximal medulla neurons, are a specific type of local neuron within the medulla of the Drosophila optic lobe."}]}
+{"alias_pairs": [{"main_name": "Pm3", "alias": "cluster 52", "evidence": "Pm3 was identified as cluster 52."}]}
+{"alias_pairs": [{"main_name": "Pm⇐C3⇒TmY3", "alias": "Pm1", "evidence": "Pm⇐C3⇒TmY3 was formerly known as Pm1."}]}
+{"alias_pairs": [{"main_name": "Pm⇐Mi1⇒Tm25", "alias": "Pm1a", "evidence": "Pm⇐Mi1⇒Tm25 were formerly known as Pm1a."}]}
+{"alias_pairs": [{"main_name": "Pm⇐Tm1⇒T3", "alias": "Pm1a", "evidence": "Pm⇐Tm1⇒T3 were formerly known as Pm1a."}]}
+{"alias_pairs": [{"main_name": "Pm⇒Mi9", "alias": "Pm1", "evidence": "Pm⇒Mi9 were formerly known as Pm1."}]}
+{"alias_pairs": [{"main_name": "R-LRAB", "alias": "SLP-AB", "evidence": "R-LRAB neurons are part of the generic group named SLP-AB, which includes neurons with specific distribution in SYM and ASYM flies."}]}
+{"alias_pairs": [{"main_name": "R2 cell", "alias": "TL2 neurons", "evidence": "R2 cell likely corresponds to TL2 neurons in Drosophila."}]}
+{"alias_pairs": [{"main_name": "R3 cell", "alias": "TL3 neurons", "evidence": "R3 cell likely corresponds to TL3 neurons in Drosophila."}]}
+{"alias_pairs": [{"main_name": "R5", "alias": "R2", "evidence": "R5 was previously called R2."}]}
+{"alias_pairs": [{"main_name": "R5", "alias": "R2", "evidence": "R5 axons, previously named R2, encode sleep drive in Drosophila."}]}
+{"alias_pairs": [{"main_name": "R5", "alias": "cluster ring_C", "evidence": "R5 neurons were identified as cluster ring_C."}]}
+{"alias_pairs": [{"main_name": "RP2", "alias": "MNISN-1s", "evidence": "RP2 is known as MNISN-1s during larval development."}]}
+{"alias_pairs": [{"main_name": "RP2", "alias": "dorsal motoneuron (dMN)", "evidence": "RP2 is termed a dorsal motoneuron (dMN)."}]}
+{"alias_pairs": [{"main_name": "RP2 MN", "alias": "dorsal Is MNs", "evidence": "RP2 MN are also known as the dorsal Is MNs."}]}
+{"alias_pairs": [{"main_name": "Rh4TmY", "alias": "TmYnew1", "evidence": "Rh4TmY resembles a recently characterized cell type, TmYnew1, identified using a Gal4 line that labels glutamatergic cells."}]}
+{"alias_pairs": [{"main_name": "SAG", "alias": "SP abdominal ganglion neurons", "evidence": "SAG are SP abdominal ganglion neurons."}]}
+{"alias_pairs": [{"main_name": "SAG neuron", "alias": "SP abdominal ganglion neurons", "evidence": "SAG neuron are SP abdominal ganglion neurons."}]}
+{"alias_pairs": [{"main_name": "SEZ_DN1", "alias": "Pair1", "evidence": "SEZ_DN1 is also known as Pair1."}]}
+{"alias_pairs": [{"main_name": "SLP-316-R", "alias": "ventral-contralateral DN1ps", "evidence": "SLP-316-R were named ventral-contralateral DN1ps."}]}
+{"alias_pairs": [{"main_name": "SPSN", "alias": "SP sensory neurons", "evidence": "SPSN is detected by the SP sensory neurons located in the lower reproductive tract of females."}]}
+{"alias_pairs": [{"main_name": "SRN", "alias": "LT-MNs", "evidence": "SRN are established as LT-MNs (lateral transverse motorneurons)."}]}
+{"alias_pairs": [{"main_name": "SS27485", "alias": "rest AN", "evidence": "SS27485 is classified as a 'rest AN'."}]}
+{"alias_pairs": [{"main_name": "Svp neuron", "alias": "Dm6b", "evidence": "Svp neuron has larger arborizations than Dm6 neurons, leading to the name Dm6b."}]}
+{"alias_pairs": [{"main_name": "T1-DAN", "alias": "tritocerebrum 1-dopaminergic neurons", "evidence": "T1-DAN are a single pair of dopaminergic neurons known as tritocerebrum 1-dopaminergic neurons."}]}
+{"alias_pairs": [{"main_name": "T2dm", "alias": "insulin-producing cells (IPCs)", "evidence": "T2dm are designated as insulin-producing cells (IPCs) in the larval CNS."}]}
+{"alias_pairs": [{"main_name": "T3 VT006878 motor neuron", "alias": "NB2-3/lin15 or ventral lineage 15 motor neurons", "evidence": "T3 VT006878 motor neuron is also known as NB2-3/lin15 or ventral lineage 15 motor neurons."}]}
+{"alias_pairs": [{"main_name": "TE", "alias": "transient extrinsic neurons", "evidence": "TE neurons are named transient extrinsic neurons."}]}
+{"alias_pairs": [{"main_name": "TL neuron", "alias": "R neurons", "evidence": "TL neurons correspond to R neurons in Drosophila."}]}
+{"alias_pairs": [{"main_name": "TL3", "alias": "R3 cells", "evidence": "TL3 neurons likely correspond to R3 cells in Drosophila."}]}
+{"alias_pairs": [{"main_name": "TLA", "alias": "TwoLumps ascending neurons", "evidence": "TLA are TwoLumps ascending neurons."}]}
+{"alias_pairs": [{"main_name": "TN1A", "alias": "17D3+ TN1 neurons", "evidence": "The 17D3+ TN1 neurons represent neurons of the anatomically defined subtype TN1A."}]}
+{"alias_pairs": [{"main_name": "hot glomerulus", "alias": "VP2", "evidence": "TPN-IV's dendrites mainly innervate the hot glomerulus, also known as VP2."}]}
+{"alias_pairs": [{"main_name": "ThDN", "alias": "thoracic descending neuron", "evidence": "ThDN is a thoracic descending neuron."}]}
+{"alias_pairs": [{"main_name": "Tm neuron", "alias": "transmedullary neurons", "evidence": "The term \"Tm neuron\" refers to transmedullary neurons, which are a specific type of neuron generated throughout most of the neuroblast life in the medulla cortex."}]}
+{"alias_pairs": [{"main_name": "Tm1", "alias": "Tm1a", "evidence": "Tm1a was defined as a morphological variant but has been merged into Tm1."}]}
+{"alias_pairs": [{"main_name": "Pm⇐Tm1⇒Tm2", "alias": "Pm2", "evidence": "Tm2 is part of the type pair Pm⇐Tm1⇒Tm2, which was formerly known as Pm2."}]}
+{"alias_pairs": [{"main_name": "Tm25", "alias": "Pm1a", "evidence": "Tm25 was formerly known as Pm1a."}]}
+{"alias_pairs": [{"main_name": "TmY3", "alias": "Pm1", "evidence": "TmY3 was formerly known as part of Pm1."}]}
+{"alias_pairs": [{"main_name": "TmY5a", "alias": "Tm5Y", "evidence": "TmY5a has been merged with Tm5Y and TmY5 due to morphological distinctions related to projection into the lobula plate."}, {"main_name": "TmY5a", "alias": "TmY5", "evidence": "TmY5a has been merged with Tm5Y and TmY5 due to morphological distinctions related to projection into the lobula plate."}]}
+{"alias_pairs": [{"main_name": "Tv neuron", "alias": "FMFRaG6P neurons", "evidence": "Tv neuron corresponds to the FMFRaG6P neurons."}]}
+{"alias_pairs": [{"main_name": "UN", "alias": "Gr32a uterine neurons", "evidence": "UN refers to a specific neuronal cell type, identified as Gr32a uterine neurons, which are involved in the defensive response after mating in female Drosophila."}]}
+{"alias_pairs": [{"main_name": "V6", "alias": "Gr66a neuron", "evidence": "V6 is identified as a Gr66a neuron."}]}
+{"alias_pairs": [{"main_name": "VA1v glomerulus", "alias": "VA1lm", "evidence": "VA1v ORN axons target to the VA1v glomerulus, also known as VA1lm."}]}
+{"alias_pairs": [{"main_name": "VML", "alias": "Ventral Midline Lgr3-positive neurons", "evidence": "VML are Ventral Midline Lgr3-positive neurons."}]}
+{"alias_pairs": [{"main_name": "VPM4", "alias": "OA-VPM4", "evidence": "OA-VPM4 arbitrates between odor-mediated food search and the rewarding experience of feeding by promoting taste-induced consumption behavior and simultaneously suppressing food odor tracking."}]}
+{"alias_pairs": [{"main_name": "VS", "alias": "Vertical System cells", "evidence": "VS cells, or Vertical System cells, are a specific subtype of lobula plate tangential cells (LPTCs) involved in processing visual motion information in Drosophila."}]}
+{"alias_pairs": [{"main_name": "VS", "alias": "Vertical System neurons", "evidence": "VS refers to Vertical System neurons, which are a specific type of large visual neuron involved in processing motion cues in the Drosophila brain."}]}
+{"alias_pairs": [{"main_name": "VS cell", "alias": "vertical system cell", "evidence": "VS cells, or vertical system cells, are a specific type of giant lobula plate tangential cell involved in signaling wide-field motion in the vertical direction."}]}
+{"alias_pairs": [{"main_name": "VUM neuron", "alias": "ventral unpaired medial neurons", "evidence": "VUM neuron are ventral unpaired medial neurons."}]}
+{"alias_pairs": [{"main_name": "WCs", "alias": "warming cells", "evidence": "WCs, or warming cells, are described as a specific set of thermosensory neurons in Drosophila larvae that respond to warming stimuli and are involved in homeostatic thermoregulation."}]}
+{"alias_pairs": [{"main_name": "aCC", "alias": "anterior corner cell motoneuron", "evidence": "aCC are anterior corner cell motoneurons."}]}
+{"alias_pairs": [{"main_name": "aCC", "alias": "MN-1b", "evidence": "aCC is the anterior corner cell motoneuron, also known as MN-1b."}]}
+{"alias_pairs": [{"main_name": "aCC", "alias": "dorsal motoneuron (dMN)", "evidence": "aCC is termed a dorsal motoneuron (dMN)."}]}
+{"alias_pairs": [{"main_name": "aDN", "alias": "anterior dorsal neurons", "evidence": "aDN are anterior dorsal neurons."}]}
+{"alias_pairs": [{"main_name": "aDT2", "alias": "mAL neurons", "evidence": "aDT2, also known as mAL neurons, is a specific neuronal cell type identified by its distinct arborization patterns and neurotransmitter profile."}]}
+{"alias_pairs": [{"main_name": "aDTb", "alias": "mAL neurons", "evidence": "aDTb are anatomically identifiable as mAL neurons by their distinct arborization patterns."}]}
+{"alias_pairs": [{"main_name": "aPN1", "alias": "AMMC-B1 neurons", "evidence": "aPN1 are also known as AMMC-B1 neurons."}]}
+{"alias_pairs": [{"main_name": "aSP-I", "alias": "AL5a", "evidence": "aSP-I is also known as AL5a and aSP11."}, {"main_name": "aSP-I", "alias": "aSP11", "evidence": "aSP-I is also known as AL5a and aSP11."}]}
+{"alias_pairs": [{"main_name": "aSP-f", "alias": "DC1", "evidence": "aSP-f has been given various names, including DC1 and aSP5."}, {"main_name": "aSP-f", "alias": "aSP5", "evidence": "aSP-f has been given various names, including DC1 and aSP5."}]}
+{"alias_pairs": [{"main_name": "aSP11", "alias": "AL5a", "evidence": "The term aSP11 is used as an alternative name for the neuronal cluster AL5a, indicating it is a specific neuronal cell type."}]}
+{"alias_pairs": [{"main_name": "aSP13", "alias": "PAM-γ5 neurons", "evidence": "aSP13 are a class of DANs also known as the PAM-γ5 neurons."}]}
+{"alias_pairs": [{"main_name": "aSP13 DAN", "alias": "PAM-γ5 neurons", "evidence": "aSP13 DANs, also known as the PAM-γ5 neurons, innervate the MBγ5 compartment."}]}
+{"alias_pairs": [{"main_name": "aSP2", "alias": "R47A04aSP2", "evidence": "aSP2 neurons are referred to as R47A04aSP2 neurons in the SMP region."}]}
+{"alias_pairs": [{"main_name": "aSP22", "alias": "DNa12", "evidence": "aSP22 is also known as DNa12."}]}
+{"alias_pairs": [{"main_name": "aSP5", "alias": "DC1", "evidence": "aSP5 has been given various names, including DC1 and aSP-f."}, {"main_name": "aSP5", "alias": "aSP-f", "evidence": "aSP5 has been given various names, including DC1 and aSP-f."}]}
+{"alias_pairs": [{"main_name": "aSP6 FruM neuron", "alias": "TKFruM neurons", "evidence": "aSP6 FruM neuron are a subset of Drosophila tachykinin-expressing, FruM neurons (TKFruM neurons)."}]}
+{"alias_pairs": [{"main_name": "adPN", "alias": "anterodorsal projection neurons", "evidence": "adPN are anterodorsal projection neurons of the antennal lobe (AL)."}]}
+{"alias_pairs": [{"main_name": "atGRN", "alias": "ascending tarsal GRNs", "evidence": "atGRN are classified as ascending tarsal GRNs."}]}
+{"alias_pairs": [{"main_name": "bCS", "alias": "bilaterally projecting campaniform sensillum neurons", "evidence": "bCS are bilaterally projecting campaniform sensillum neurons."}]}
+{"alias_pairs": [{"main_name": "bd neuron", "alias": "multi-dendritic (MD) neurons", "evidence": "bd neuron are type II neurons, also known as multi-dendritic (MD) neurons."}]}
+{"alias_pairs": [{"main_name": "biPN", "alias": "lAL PNs", "evidence": "biPN can be categorized as a class of lAL PNs based on their morphology."}]}
+{"alias_pairs": [{"main_name": "c3da", "alias": "class III da neurons", "evidence": "c3da are class III da neurons."}]}
+{"alias_pairs": [{"main_name": "cHIN", "alias": "contralateral haltere interneurons", "evidence": "cHINs, or contralateral haltere interneurons, are described as a specific type of neuron with distinct anatomical features and functions, such as receiving sensory inputs from the haltere nerve and making contralateral projections."}]}
+{"alias_pairs": [{"main_name": "cIV", "alias": "Class IV da neurons", "evidence": "cIV refers to Class IV da neurons, which are a specific type of polymodal nociceptive neuron in Drosophila larvae."}]}
+{"alias_pairs": [{"main_name": "cPIN", "alias": "commissural pioneer interneurons", "evidence": "cPIN are commissural pioneer interneurons."}]}
+{"alias_pairs": [{"main_name": "ch", "alias": "chordotonal neurons", "evidence": "The term \"ch\" refers to chordotonal neurons, which are a specific type of mechanosensitive neuronal cell in Drosophila."}]}
+{"alias_pairs": [{"main_name": "cho neurons", "alias": "chordotonal neurons", "evidence": "The term \"cho neurons\" refers to chordotonal neurons, which are a specific type of mechanosensory neuron in Drosophila responsible for mediating vibration and gravity responses."}]}
+{"alias_pairs": [{"main_name": "dFB", "alias": "dorsal fan-shaped body neurons", "evidence": "The term \"dFB\" refers to the dorsal fan-shaped body neurons, which are a specific neuronal cell type involved in sleep regulation in Drosophila."}]}
+{"alias_pairs": [{"main_name": "dFB neuron", "alias": "ExFl2 neurons", "evidence": "dFB neuron is also called ExFl2 neurons."}]}
+{"alias_pairs": [{"main_name": "dFB_B", "alias": "dorsal fan-shaped body type B neurons", "evidence": "The term \"dFB_B\" refers to a specific type of neuron, the dorsal fan-shaped body type B neurons, which are mentioned in the context of transcriptional deregulation and functional studies."}]}
+{"alias_pairs": [{"main_name": "dMN", "alias": "dorsal motoneurons", "evidence": "dMN are dorsal motoneurons."}]}
+{"alias_pairs": [{"main_name": "dbd", "alias": "dorsal bipolar dendrite neuron", "evidence": "The term \"dbd\" refers to a specific type of sensory neuron in Drosophila, known as the dorsal bipolar dendrite neuron, which is involved in proprioception and plays a role in larval locomotion."}]}
+{"alias_pairs": [{"main_name": "ddaC", "alias": "class IV dendritic arborization (C4da) neurons", "evidence": "ddaC neurons are class IV dendritic arborization (C4da) neurons in Drosophila."}]}
+{"alias_pairs": [{"main_name": "ddaC", "alias": "class IV da (C4da)", "evidence": "ddaC is a class IV da (C4da) neuron."}]}
+{"alias_pairs": [{"main_name": "ddaC neuron", "alias": "C4da neurons", "evidence": "ddaC neuron is a subset of dorsal class IV da neurons (C4da neurons)."}]}
+{"alias_pairs": [{"main_name": "ddaC neuron", "alias": "C4da neuron", "evidence": "ddaC neuron is a C4da neuron."}]}
+{"alias_pairs": [{"main_name": "dlm mn", "alias": "indirect dorsal longitudinal motor neurons", "evidence": "dlm mn are motor neurons innervating the flight power muscles (indirect dorsal longitudinal motor neurons)."}]}
+{"alias_pairs": [{"main_name": "dmd1", "alias": "dorsal multidendritic neuron 1", "evidence": "The term \"dmd1\" refers to a specific neuronal cell type, dorsal multidendritic neuron 1, which is described in the context of its unique dendrite morphology and function in proprioception."}]}
+{"alias_pairs": [{"main_name": "draDm8", "alias": "Dm-DRA1", "evidence": "draDm8 correspond to the newly identified Dm-DRA1 neurons."}]}
+{"alias_pairs": [{"main_name": "fpDAN", "alias": "flight-promoting DANs", "evidence": "fpDANs are referred to as flight-promoting DANs."}]}
+{"alias_pairs": [{"main_name": "R5 axons", "alias": "R2", "evidence": "helicon cells excite R5 axons, previously named R2, that encode sleep drive in Drosophila."}]}
+{"alias_pairs": [{"main_name": "hΔ", "alias": "pontine cells", "evidence": "hΔ neurons are also known as pontine cells in the fly literature."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large ventral lateral neurons", "evidence": "l-LNv are large ventral lateral neurons."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large Lateral Neuron ventral", "evidence": "l-LNv are large Lateral Neuron ventral pacemaker neurons."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large ventral lateral neurons", "evidence": "l-LNv are large ventral lateral neurons."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large-lateral ventral neurons", "evidence": "l-LNv are large-lateral ventral neurons."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large ventral lateral neurons", "evidence": "l-LNv are large ventral lateral neurons."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large ventral lateral neurons", "evidence": "The term l-LNv refers to a specific neuronal cell type, the large ventral lateral neurons, which are involved in wake-promoting functions in Drosophila."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large ventrolateral neurons", "evidence": "l-LNv are large ventrolateral neurons in Drosophila."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large ventral lateral neurons", "evidence": "l-LNv are classified as large ventral lateral neurons."}]}
+{"alias_pairs": [{"main_name": "l-LNv", "alias": "large LNvs", "evidence": "l-LNv are classically referred to as large LNvs."}]}
+{"alias_pairs": [{"main_name": "l-NSC", "alias": "lateral neurosecretory cells", "evidence": "l-NSC are classified based on their location in the brain as lateral neurosecretory cells."}]}
+{"alias_pairs": [{"main_name": "lOLP", "alias": "local optic lobe pioneer cells", "evidence": "lOLP are local optic lobe pioneer cells (OLPs) that are fully contained within the LON."}]}
+{"alias_pairs": [{"main_name": "lPN", "alias": "GH146+ PNs", "evidence": "lPNs are GH146+ PNs."}]}
+{"alias_pairs": [{"main_name": "lch5 neuron", "alias": "Lateral Chordotonal neurons", "evidence": "lch5 neuron are Lateral Chordotonal neurons."}]}
+{"alias_pairs": [{"main_name": "lov+ PN", "alias": "DA4l/VA6/VA2 adPNs", "evidence": "lov+ PN are embryonic-born DA4l/VA6/VA2 adPNs."}]}
+{"alias_pairs": [{"main_name": "lpi neuron", "alias": "lobula plate intrinsic neurons", "evidence": "lpi neuron are lobula plate intrinsic neurons."}]}
+{"alias_pairs": [{"main_name": "lvPN", "alias": "DA1 lateroventral projection neurons", "evidence": "The term \"lvPN\" refers to a specific neuronal cell type, the DA1 lateroventral projection neurons, which are described as uniglomerular, excitatory projection neurons involved in processing cVA pheromone signals in Drosophila."}]}
+{"alias_pairs": [{"main_name": "m-NSCDILP", "alias": "insulin-producing cells", "evidence": "m-NSCDILP express insulin-like peptides 2, 3, and 5 and are commonly referred to as insulin-producing cells."}]}
+{"alias_pairs": [{"main_name": "mAL", "alias": "aDT2", "evidence": "mAL are also known as aDT2 or aDTb."}, {"main_name": "mAL", "alias": "aDTb", "evidence": "mAL are also known as aDT2 or aDTb."}]}
+{"alias_pairs": [{"main_name": "mCSI", "alias": "A02m/n neurons", "evidence": "mCSI are predicted to be A02m/n neurons from EM connectomes."}]}
+{"alias_pairs": [{"main_name": "mNSC", "alias": "median neurosecretory cells", "evidence": "The term \"mNSC\" refers to a specific type of neuronal cell in Drosophila, known as median neurosecretory cells, which are involved in neuropeptide release and regulation of physiological processes."}]}
+{"alias_pairs": [{"main_name": "mPN", "alias": "cobra", "evidence": "mPN, called \"cobra,\" projects to the vertical lobe of the mushroom bodies."}]}
+{"alias_pairs": [{"main_name": "mPN", "alias": "multiglomerular projection neurons", "evidence": "mPN are multiglomerular projection neurons."}]}
+{"alias_pairs": [{"main_name": "md neuron", "alias": "multidendritic neurons", "evidence": "The term \"md neuron\" refers to a specific type of sensory neuron known as multidendritic neurons, which are a recognized neuronal cell type in Drosophila."}]}
+{"alias_pairs": [{"main_name": "oviDN", "alias": "oviposition descending neurons", "evidence": "oviDN are oviposition descending neurons involved in the egg-laying process of Drosophila."}]}
+{"alias_pairs": [{"main_name": "oviEN", "alias": "oviposition excitatory neurons", "evidence": "oviEN is named oviposition excitatory neurons."}]}
+{"alias_pairs": [{"main_name": "oviIN", "alias": "oviposition inhibitory neurons", "evidence": "oviIN are named oviposition inhibitory neurons."}]}
+{"alias_pairs": [{"main_name": "pC3 neuron", "alias": "pCd", "evidence": "pC3 neuron is also known as pCd."}]}
+{"alias_pairs": [{"main_name": "pCd neuron", "alias": "pC3", "evidence": "pCd neuron is also known as pC3."}]}
+{"alias_pairs": [{"main_name": "pDm8", "alias": "pale Dm8", "evidence": "pDm8 is identified as pale Dm8."}]}
+{"alias_pairs": [{"main_name": "pIP9", "alias": "DNp36", "evidence": "pIP9 is also referred to as DNp36."}]}
+{"alias_pairs": [{"main_name": "R35B01-Gal4", "alias": "pIPC-Gal4", "evidence": "pIPC neuron has a specific driver line called R35B01-Gal4, also termed pIPC-Gal4."}]}
+{"alias_pairs": [{"main_name": "pMN1", "alias": "DNp13", "evidence": "pMN1 is also known as DNp13."}]}
+{"alias_pairs": [{"main_name": "pMN1", "alias": "DNp13", "evidence": "pMN1 is also known as DNp13."}]}
+{"alias_pairs": [{"main_name": "pMN2", "alias": "vpoDN", "evidence": "pMN2 is also known as vpoDN."}]}
+{"alias_pairs": [{"main_name": "pMN2", "alias": "vpoDN", "evidence": "pMN2 is also known as vpoDN."}]}
+{"alias_pairs": [{"main_name": "primary protocerebral anterior medial cluster", "alias": "DM2", "evidence": "pPAM neuron is part of the primary protocerebral anterior medial cluster, also known as DM2."}]}
+{"alias_pairs": [{"main_name": "pSc", "alias": "posterior scutellar neuron", "evidence": "pSc neurons are the left and right posterior scutellar neurons."}]}
+{"alias_pairs": [{"main_name": "pb-eb-no neuron", "alias": "P-EN", "evidence": "pb-eb-no neuron is also known as 'P-EN'."}]}
+{"alias_pairs": [{"main_name": "ppkAC", "alias": "Ppk-LexA", "evidence": "ppkAC co-label the same ACs as Ppk-LexA."}]}
+{"alias_pairs": [{"main_name": "pseudo-Li11", "alias": "Li19", "evidence": "pseudo-Li11 is replaced by the new name Li19."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "Morning (M) cells", "evidence": "s-LNv are also known as Morning (M) cells."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "small ventral lateral neurons", "evidence": "s-LNv are small ventral lateral neurons."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "small ventrolateral neurons", "evidence": "The term \"s-LNv\" refers to a specific neuronal cell type, the small ventrolateral neurons, which are involved in circadian timekeeping in Drosophila."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "morning cells (M-cells)", "evidence": "s-LNv are known as morning cells (M-cells) as they are primarily responsible for the timing of the M-peak."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "M-oscillators", "evidence": "s-LNv are referred to as the M-oscillators."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "Morning (M) cell", "evidence": "s-LNv is active around dawn and is operationally termed a Morning (M) cell."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "small ventrolateral neurons", "evidence": "s-LNv are classified as small ventrolateral neurons."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "morning (M) cells", "evidence": "s-LNv are referred to as morning (M) cells."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "small ventral Lateral Neurons", "evidence": "s-LNvs are small ventral Lateral Neurons that communicate with a subset of dorsal Lateral Neurons (LNds) and Dorsal clock neurons (DNs) to generate bimodal locomotor activity rhythms in light∶dark cycles."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "small ventral lateral neurons", "evidence": "s-LNv are classified as small ventral lateral neurons."}]}
+{"alias_pairs": [{"main_name": "s-LNv", "alias": "small LNvs", "evidence": "s-LNv are classically referred to as small LNvs."}]}
+{"alias_pairs": [{"main_name": "s-LNvs", "alias": "small ventral Lateral Neurons", "evidence": "s-LNvs are small ventral Lateral Neurons in Drosophila that synthesize the key circadian neuropeptide Pigment Dispersing Factor (PDF)."}]}
+{"alias_pairs": [{"main_name": "sLNv", "alias": "small ventro-lateral neurons", "evidence": "sLNv are small ventro-lateral neurons."}]}
+{"alias_pairs": [{"main_name": "sLNv", "alias": "small lateral ventral neurons", "evidence": "sLNv refers to a specific neuronal cell type known as small lateral ventral neurons, which are involved in circadian rhythms and temperature preference behavior in Drosophila."}]}
+{"alias_pairs": [{"main_name": "sLNv", "alias": "small ventral lateral neurons", "evidence": "sLNv refers to a specific neuronal cell type known as small ventral lateral neurons, which are involved in circadian rhythm regulation in Drosophila."}]}
+{"alias_pairs": [{"main_name": "sLNv", "alias": "small Lateral Neurons ventral", "evidence": "sLNv refers to a specific neuronal cell type known as \"small Lateral Neurons ventral,\" which are part of the circadian clock circuit in Drosophila."}]}
+{"alias_pairs": [{"main_name": "sLNv", "alias": "5th sLNv", "evidence": "sLNv include one remaining sLNv in the evening cells, which is PDF−negative and also known as the 5th sLNv."}]}
+{"alias_pairs": [{"main_name": "sLNv", "alias": "small lateral ventral neurons", "evidence": "The term \"sLNv\" refers to a specific neuronal cell type known as the small lateral ventral neurons, which are part of the Drosophila circadian clock network."}]}
+{"alias_pairs": [{"main_name": "sLNv", "alias": "5th sLNv", "evidence": "sLNv is PDF-negative and also known as the 5th sLNv."}]}
+{"alias_pairs": [{"main_name": "sNPF positive LNd", "alias": "E1 oscillators", "evidence": "sNPF positive LNd are termed E1 oscillators based on their tight temporal coupling to the s-LNvs."}]}
+{"alias_pairs": [{"main_name": "sVUM2", "alias": "subesophageal zone-ventral-unpaired-medial 2 neurons", "evidence": "sVUM2 are subesophageal zone-ventral-unpaired-medial 2 neurons of the maxillary and mandibular clusters."}]}
+{"alias_pairs": [{"main_name": "shAC", "alias": "ppkAC", "evidence": "shAC is the same as ppkAC neurons."}]}
+{"alias_pairs": [{"main_name": "stGRN", "alias": "segmental tarsal GRNs", "evidence": "stGRN are classified as segmental tarsal GRNs."}]}
+{"alias_pairs": [{"main_name": "td neuron", "alias": "tracheal dendrite neurons", "evidence": "The term \"td neuron\" refers to a specific type of neuronal cell in Drosophila, known as tracheal dendrite neurons, which are involved in detecting respiratory gases and are characterized by their unique dendritic association with tracheal branches."}]}
+{"alias_pairs": [{"main_name": "uPN", "alias": "uniglomerular projection neurons", "evidence": "uPN are uniglomerular projection neurons."}]}
+{"alias_pairs": [{"main_name": "uPN", "alias": "uniglomerular projection neurons", "evidence": "uPN refers to uniglomerular projection neurons, which are a specific type of neuronal cell involved in olfactory processing in Drosophila."}]}
+{"alias_pairs": [{"main_name": "uPN", "alias": "uni-glomerular Projection Neurons", "evidence": "uPNs are uni-glomerular Projection Neurons."}]}
+{"alias_pairs": [{"main_name": "uPN", "alias": "uniglomerular projection neurons", "evidence": "uPN are uniglomerular projection neurons."}]}
+{"alias_pairs": [{"main_name": "uv1", "alias": "uterine vulval one cells", "evidence": "uv1 cells are four neuroendocrine cells called the uterine vulval one cells."}]}
+{"alias_pairs": [{"main_name": "vAL", "alias": "ventral anterior lateral neurons of the AG", "evidence": "vAL are proposed to be named ventral anterior lateral neurons of the AG based on the location of their somas."}]}
+{"alias_pairs": [{"main_name": "vPN1", "alias": "ventrolateral protocerebrum Projection Neuron 1", "evidence": "vPN1 is designated as ventrolateral protocerebrum Projection Neuron 1."}]}
+{"alias_pairs": [{"main_name": "vpoDN", "alias": "vaginal plate opening descending neurons", "evidence": "vpoDN are vaginal plate opening descending neurons."}]}
+{"alias_pairs": [{"main_name": "vpoDN", "alias": "pMN2", "evidence": "vpoDN is also known as pMN2."}]}
+{"alias_pairs": [{"main_name": "yDm8", "alias": "yellow Dm8", "evidence": "yDm8 is identified as yellow Dm8."}]}
+{"alias_pairs": [{"main_name": "Fe-ltm", "alias": "ltm2", "evidence": "Fe-ltm, also called ltm2."}]}
+{"alias_pairs": [{"main_name": "Tibia-long tendon muscle", "alias": "ltm1", "evidence": "Tibia-long tendon muscle (Ti-ltm, also called ltm1)."}]}
+{"alias_pairs": [{"main_name": "αβ neuron", "alias": "αβ-Gal4", "evidence": "αβ neuron are marked by R44E04-Gal4 (referred to as αβ-Gal4)."}]}
+{"alias_pairs": [{"main_name": "αβ posterior neuron", "alias": "αβp", "evidence": "αβ posterior neuron are also known as αβp or pioneer neurons."}, {"main_name": "αβ posterior neuron", "alias": "pioneer neurons", "evidence": "αβ posterior neuron are also known as αβp or pioneer neurons."}]}
+{"alias_pairs": [{"main_name": "αβ surface neuron", "alias": "αβs or early neurons", "evidence": "αβ surface neuron are also known as αβs or early neurons."}]}
+{"alias_pairs": [{"main_name": "αβp", "alias": "pioneer neurons", "evidence": "αβp neurons are also known as pioneer neurons."}]}
